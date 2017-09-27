@@ -7,14 +7,19 @@ import string
 import unidecode
 from urllib.parse import quote_plus
 
+''' Create the file my_own_twitter_keys.txt and place your four keys there.
+    The file my_own_twitter_keys.txt has to contain the comma-separated 
+    keys in the following order:
+
+    CONSUMER_KEY,CONSUMER_SECRET,ACCESS_TOKEN,ACCESS_TOKEN_SECRET
+'''
+
+myOwnKeys = tuple(open('my_own_twitter_keys.txt', 'r'))
+
 def authenticate():
     #consumer key, secret, app key, secret
-    keys = ['6MtEg33yEnTMw2rNGyOZMSYi4',
-    'pmLWbRqXYVTUVsi6GngMsIwmIzceUj273LCYJ8Fcu1KPNcTFvi',
-    '321020505-UqnEWtPZDunXeGUbJADLt89y9FUS4xXQFGcd8hpE',
-    'vNG1slpiQs8zgHwe8ImkdkpCuUrS2pDUPHStBOYWAx0EZ']
-    
     #OAuth process
+    keys = myOwnKeys[0].split(',')
     auth = tweepy.OAuthHandler(keys[0], keys[1])
     auth.set_access_token(keys[2], keys[3])
     
@@ -52,8 +57,10 @@ def search(query, n):
                     tweet_ids.add(tweet.id)
                     searched_tweets.append(tweet)
 
-            # print(len(searched_tweets))
-            last_id = min(tweet_ids)
+            # print("curr size " + str(len(searched_tweets)))
+
+            if len(tweet_ids) > 0:
+                last_id = min(tweet_ids)
 
         except tweepy.RateLimitError as e:
             print("Waiting 15 minutes...")
@@ -63,8 +70,6 @@ def search(query, n):
         except tweepy.TweepError as e:
             print("Did NOT exceed rate limit: ", e)
             break
-
-
 
     return searched_tweets
 
