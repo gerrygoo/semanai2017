@@ -89,11 +89,11 @@ def mineTweets():
 
     authenticate()
 
-    topicToSearch = "Cabify_Mexico"
+    topicToSearch = "@lopezobrador_"
     tweetAmount = 20
     tweetSet = set()
 
-    for tweet in searchWithEmoji(toSearch, tweetAmount):
+    for tweet in searchWithEmoji(topicToSearch, tweetAmount):
         clean = {k:tweet._json[k] for k in tweet._json.keys() & ( "id", "full_text")}
         if clean["full_text"] not in tweetSet:
             tweetSet.add(clean["full_text"])
