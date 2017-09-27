@@ -121,13 +121,11 @@ def searchWithEmoji(query, n):
 
     return toRet
 
-
 def main():
     authenticate()
     query = "iphone"
     number = 30
 
     print( json.dumps({ "tweets" : [ tweetCleanse(tweet) for tweet in searchWithEmoji(query, number) ] }))
-
 
 main()
