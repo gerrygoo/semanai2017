@@ -2,7 +2,7 @@ import tweepy
 import time
 import json
 import re
-import pprint
+from pprint import pprint
 import string
 import unidecode
 from urllib.parse import quote_plus
@@ -119,12 +119,10 @@ def searchWithEmoji(query, n):
 
 def main():
     authenticate()
+    query = "iphone"
+    number = 30
 
-
-    for tweet in searchWithEmoji("iPhone", 50):
-        clean = tweetCleanse(tweet)
-        print(clean["id"], ",", clean["full_text"],",", " ".join(clean["emojis"]))
-
+    print( json.dumps({ "tweets" : [ tweetCleanse(tweet) for tweet in searchWithEmoji(query, number) ] }))
 
 
 main()
