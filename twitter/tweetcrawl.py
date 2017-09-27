@@ -2,8 +2,9 @@ import tweepy
 import time
 import json
 import re
-import emoji
 import pprint
+import string
+import unidecode
 from urllib.parse import quote_plus
 
 def authenticate():
@@ -33,12 +34,10 @@ def timelineCrawl(n):
 
 def search(query, n):
     cleanQuery = quote_plus(query)
-    # print(cleanQuery)
     searched_tweets = []
     tweet_ids = set()
     rType = "mixed"
     last_id = -1
-    emojiRegex = emoji.get_emoji_regexp()
     while len(searched_tweets) < n:
         try:
             if last_id != -1:
@@ -69,9 +68,47 @@ def search(query, n):
 
     return searched_tweets
 
+def tweetCleanse(tw):
+    tweet = tw._json
+
+    #extract emojis
+    emojip = re.compile("(" +"|".join(ours) + ")")
+    matches = emojip.findall(tweet["full_text"])
+
+    urlp = re.compile("\s*http\S*")
+    spacep = re.compile("\s+", re.MULTILINE)
+    punctp = re.compile("[{}]".format(string.punctuation+","))
+    
+    # delete mentions
+    for mention in reversed(tweet["entities"]["user_mentions"]):
+        tweet["full_text"] = tweet["full_text"][: mention["indices"][0] ] + tweet["full_text"][mention["indices"][1] :]
+
+    # hashtags have no #
+    tweet["full_text"] = tweet["full_text"].replace("#", "")
+
+    # no urls
+    tweet["full_text"] = urlp.sub('', tweet["full_text"])
+
+    # no punctuation
+    tweet["full_text"] = punctp.sub('', tweet["full_text"])
+
+    #lower case
+    tweet["full_text"] = tweet["full_text"].lower()
+
+    #no extra spaces
+    tweet["full_text"] = spacep.sub(' ', tweet["full_text"])
+
+    # no accents
+    tweet["full_text"] = unidecode.unidecode(tweet["full_text"])
+
+    toRet = {k:tweet[k] for k in tweet.keys() & ( "id", "full_text")} 
+    toRet["emojis"] = matches
+    return toRet
+
 def searchWithEmoji(query, n):
     toRet = []
     sliceSize = n//8
+    global ours
     ours = ["😂","❤️","😍","♥️","😭","😊","😒","💕","😘","😩","👌","😔","😏","😁","😉","👍","😌","🙏","🎶","😢","😅","😎","👀","😳","🙌","💔","🙈","✌️","💙","✨","💜","💯","😴","💖","😄","😑","😕","😜","😞","😋","😪","😐","👏","🔥","💗","💘","💁","💞","👉","📷","💋","🙊","😱","✋","😈","😡","🎉","😃","💀","💛","💪","😫","😝","😆","👊","😀","🌚","😤","☀️","💓","💚","😓","😻","✔️","😣","👈","😷","😇","😛","😚","😥","👋","👑","😬","😖","😠","🌟","🎵","😶","👇","🙋","👎","💃","🔴","🔫","💫","👅","💥","💭","✊","✈️","💩","😰","😹","🙅","🌞","💦","💎","🙆","⚡️","⭐️","💤","🍕","👻","🍀","⚽️","🎤","😟","😨","🚶","🔞","🎀","😙","👽","💅","☝️","🌙","🙇","☁️","🍻","😧","💟","👯","👼","☕️","💝","🎁","🐶","💰","☎️","🎂","😮","🏃","😵","😲","✖️","😯","🐱","👆","👫","🏆","🌝","💸","💍","😿"]
     
     for i in range(8):
@@ -79,14 +116,15 @@ def searchWithEmoji(query, n):
 
     return toRet
 
-# def cleanTweet(tweet):
-#     toRet = tweet.replace("@", "")
 
-# authenticate()
+def main():
+    authenticate()
 
-# tweetSet = set()
-# for tweet in searchWithEmoji("minecraft", 100):
-#     clean = {k:tweet._json[k] for k in tweet._json.keys() & ( "id", "full_text")}
-#     if clean["full_text"] not in tweetSet:
-#         tweetSet.add(clean["full_text"])
-#         print(clean["id"], ",", clean["full_text"])
+
+    for tweet in searchWithEmoji("iPhone", 50):
+        clean = tweetCleanse(tweet)
+        print(clean["id"], ",", clean["full_text"],",", " ".join(clean["emojis"]))
+
+
+
+main()
