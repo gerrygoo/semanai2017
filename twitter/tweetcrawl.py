@@ -14,10 +14,11 @@ from urllib.parse import quote_plus
     CONSUMER_KEY,CONSUMER_SECRET,ACCESS_TOKEN,ACCESS_TOKEN_SECRET
 '''
 
-myOwnKeys = tuple(open('my_own_twitter_keys.txt', 'r'))
 
 def authenticate():
+
     #consumer key, secret, app key, secret
+    myOwnKeys = tuple(open('my_own_twitter_keys.txt', 'r'))
     #OAuth process
     keys = myOwnKeys[0].split(',')
     auth = tweepy.OAuthHandler(keys[0], keys[1])
@@ -75,7 +76,7 @@ def search(query, n):
 
 def tweetCleanse(tw):
     tweet = tw._json
-
+    old = tweet["full_text"]
     #extract emojis
     emojip = re.compile("(" +"|".join(ours) + ")")
     matches = emojip.findall(tweet["full_text"])
@@ -100,14 +101,16 @@ def tweetCleanse(tw):
     #lower case
     tweet["full_text"] = tweet["full_text"].lower()
 
-    #no extra spaces
+    # no extra spaces
     tweet["full_text"] = spacep.sub(' ', tweet["full_text"])
 
     # no accents
     tweet["full_text"] = unidecode.unidecode(tweet["full_text"])
+    
 
     toRet = {k:tweet[k] for k in tweet.keys() & ( "id", "full_text")} 
     toRet["emojis"] = matches
+    toRet["fullTweet"] = old
     return toRet
 
 def searchWithEmoji(query, n):
@@ -124,8 +127,8 @@ def searchWithEmoji(query, n):
 
 def main():
     authenticate()
-    query = "iphone"
-    number = 30
+    query = "cabify"
+    number = 10000
 
     print( json.dumps({ "tweets" : [ tweetCleanse(tweet) for tweet in searchWithEmoji(query, number) ] }))
 

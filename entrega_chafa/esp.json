@@ -1,0 +1,11114 @@
+[
+	{
+		"población": "obra",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "dormir",
+		"-0.2": "1"
+	},
+	{
+		"población": "dar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "realizar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "haber",
+		"-0.2": "0"
+	},
+	{
+		"población": "amor",
+		"-0.2": "1"
+	},
+	{
+		"población": "aparecer",
+		"-0.2": "0"
+	},
+	{
+		"población": "seguir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "especie",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "dejar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "nombre",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "solo",
+		"-0.2": "0"
+	},
+	{
+		"población": "corazón",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "lograr",
+		"-0.2": "1"
+	},
+	{
+		"población": "entender",
+		"-0.2": "1"
+	},
+	{
+		"población": "acercar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "grande",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "ojo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "bueno",
+		"-0.2": "1"
+	},
+	{
+		"población": "trabajar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "permitir",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "junto",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "hablar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "hacer",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "tiempo",
+		"-0.2": "0"
+	},
+	{
+		"población": "nuevo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "mirada",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "entrar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "cuerpo",
+		"-0.2": "0"
+	},
+	{
+		"población": "tipo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "cosa",
+		"-0.2": "0"
+	},
+	{
+		"población": "volver",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "propio",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "más",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "llamar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "canción",
+		"-0.2": "1"
+	},
+	{
+		"población": "alcanzar",
+		"-0.2": "1"
+	},
+	{
+		"población": "pensar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "agua",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "aire",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "jugar",
+		"-0.2": "1"
+	},
+	{
+		"población": "voz",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "poder",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sentar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "mar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "mirar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "río",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "dolor",
+		"-0.2": "-1"
+	},
+	{
+		"población": "caso",
+		"-0.2": "0"
+	},
+	{
+		"población": "mantener",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "historia",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "región",
+		"-0.2": "0"
+	},
+	{
+		"población": "abrir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "último",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "hermano",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "lugar",
+		"-0.2": "0"
+	},
+	{
+		"población": "presentar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "producir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "estar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "venir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "palabra",
+		"-0.2": "0"
+	},
+	{
+		"población": "habitante",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "fin",
+		"-0.2": "0"
+	},
+	{
+		"población": "sólo",
+		"-0.2": "0"
+	},
+	{
+		"población": "alma",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "rey",
+		"-0.2": "-0.16669999999999999"
+	},
+	{
+		"población": "mundo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "ser",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "número",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "considerar",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "querer",
+		"-0.2": "1"
+	},
+	{
+		"población": "recordar",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "amar",
+		"-0.2": "1"
+	},
+	{
+		"población": "creer",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "pedir",
+		"-0.2": "-0.5"
+	},
+	{
+		"población": "caer",
+		"-0.2": "-0.5"
+	},
+	{
+		"población": "siguiente",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "trabajo",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "nacional",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "convertir",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "tener",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "lado",
+		"-0.2": "0"
+	},
+	{
+		"población": "punto",
+		"-0.2": "0"
+	},
+	{
+		"población": "esperar",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "amigo",
+		"-0.2": "1"
+	},
+	{
+		"población": "manera",
+		"-0.2": "0"
+	},
+	{
+		"población": "total",
+		"-0.2": "0"
+	},
+	{
+		"población": "ubicar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "crear",
+		"-0.2": "1"
+	},
+	{
+		"población": "calle",
+		"-0.2": "0"
+	},
+	{
+		"población": "terminar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "forma",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "sistema",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "año",
+		"-0.2": "0"
+	},
+	{
+		"población": "existir",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "hijo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "partir",
+		"-0.2": "0"
+	},
+	{
+		"población": "comenzar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "luz",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "buscar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "paso",
+		"-0.2": "0"
+	},
+	{
+		"población": "vida",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "país",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "encontrar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "decidir",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "parte",
+		"-0.2": "0"
+	},
+	{
+		"población": "noche",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "llevar",
+		"-0.2": "0"
+	},
+	{
+		"población": "poner",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "hora",
+		"-0.2": "0"
+	},
+	{
+		"población": "incluir",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "decir",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "escuchar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "perder",
+		"-0.2": "-1"
+	},
+	{
+		"población": "grupo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "libro",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "fuerza",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "familia",
+		"-0.2": "1"
+	},
+	{
+		"población": "llegar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cielo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "zona",
+		"-0.2": "0"
+	},
+	{
+		"población": "verdad",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "persona",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "norte",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "hombre",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cuenta",
+		"-0.2": "0"
+	},
+	{
+		"población": "puerta",
+		"-0.2": "0"
+	},
+	{
+		"población": "dirigir",
+		"-0.2": "0"
+	},
+	{
+		"población": "momento",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "muerte",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "municipio",
+		"-0.2": "0"
+	},
+	{
+		"población": "tratar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "quedar",
+		"-0.2": "0"
+	},
+	{
+		"población": "unir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cabeza",
+		"-0.2": "0"
+	},
+	{
+		"población": "tierra",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "mismo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "centro",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "aun",
+		"-0.2": "0"
+	},
+	{
+		"población": "casa",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "gente",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "principal",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "tan",
+		"-0.2": "0"
+	},
+	{
+		"población": "mejor",
+		"-0.2": "0.66669999999999996"
+	},
+	{
+		"población": "preguntar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "saber",
+		"-0.2": "1"
+	},
+	{
+		"población": "formar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "único",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "vez",
+		"-0.2": "0"
+	},
+	{
+		"población": "camino",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "recuerdo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "mujer",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "conocer",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "parecer",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "olvidar",
+		"-0.2": "0"
+	},
+	{
+		"población": "metro",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "importante",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "universidad",
+		"-0.2": "0.71430000000000005"
+	},
+	{
+		"población": "siglo",
+		"-0.2": "0"
+	},
+	{
+		"población": "color",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "pasar",
+		"-0.2": "0"
+	},
+	{
+		"población": "correr",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "mano",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "contar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "deber",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "salir",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "vivir",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "estado",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "ver",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "pequeño",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "padre",
+		"-0.2": "1"
+	},
+	{
+		"población": "gobierno",
+		"-0.2": "0"
+	},
+	{
+		"población": "condado",
+		"-0.2": "0"
+	},
+	{
+		"población": "utilizar",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "madre",
+		"-0.2": "1"
+	},
+	{
+		"población": "sentir",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "tanto",
+		"-0.2": "0"
+	},
+	{
+		"población": "cambiar",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "final",
+		"-0.2": "0.28570000000000001"
+	},
+	{
+		"población": "escribir",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "día",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sueño",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "usar",
+		"-0.2": "0"
+	},
+	{
+		"población": "empezar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "tomar",
+		"-0.2": "0"
+	},
+	{
+		"población": "pesar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "equipo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "ciudad",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "juego",
+		"-0.2": "1"
+	},
+	{
+		"población": "provincia",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "gran",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "general",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "morir",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "nacer",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "niño",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "mayor",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "recibir",
+		"-0.2": "0.66669999999999996"
+	},
+	{
+		"población": "serie",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "silencio",
+		"-0.2": "0.66669999999999996"
+	},
+	{
+		"población": "realidad",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "real",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "proyecto",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "estudio",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "tocar",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "conseguir",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "película",
+		"-0.2": "0"
+	},
+	{
+		"población": "mes",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "sol",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "diferente",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "ganar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "isla",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "censo",
+		"-0.2": "0"
+	},
+	{
+		"población": "intentar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "mostrar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "viejo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "humano",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "caminar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "pie",
+		"-0.2": "0"
+	},
+	{
+		"población": "orden",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "gustar",
+		"-0.2": "0.83330000000000004"
+	},
+	{
+		"población": "llorar",
+		"-0.2": "-0.83330000000000004"
+	},
+	{
+		"población": "levantar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "cara",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "rostro",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "señor",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "música",
+		"-0.2": "1"
+	},
+	{
+		"población": "raza",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "idea",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "viento",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "iglesia",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "través",
+		"-0.2": "0"
+	},
+	{
+		"población": "problema",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "álbum",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "desear",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "boca",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "mente",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "imagen",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "miedo",
+		"-0.2": "-1"
+	},
+	{
+		"población": "época",
+		"-0.2": "0"
+	},
+	{
+		"población": "acabar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "piel",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "carrera",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "construir",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "obtener",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "brazo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "fuerte",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "demografía",
+		"-0.2": "0"
+	},
+	{
+		"población": "club",
+		"-0.2": "0.66669999999999996"
+	},
+	{
+		"población": "publicar",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "resto",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "observar",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "situar",
+		"-0.2": "0"
+	},
+	{
+		"población": "temporada",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "lanzar",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "cerrar",
+		"-0.2": "-0.33329999999999999"
+	},
+	{
+		"población": "servicio",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "beso",
+		"-0.2": "1"
+	},
+	{
+		"población": "presidente",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "sentido",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sonrisa",
+		"-0.2": "1"
+	},
+	{
+		"población": "necesitar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "razón",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "miembro",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "movimiento",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "regresar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "relación",
+		"-0.2": "1"
+	},
+	{
+		"población": "frente",
+		"-0.2": "0"
+	},
+	{
+		"población": "escuela",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "papel",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "línea",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "destacar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "ejemplo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "descubrir",
+		"-0.2": "1"
+	},
+	{
+		"población": "servir",
+		"-0.2": "0"
+	},
+	{
+		"población": "arte",
+		"-0.2": "1"
+	},
+	{
+		"población": "sangre",
+		"-0.2": "0"
+	},
+	{
+		"población": "estrella",
+		"-0.2": "1"
+	},
+	{
+		"población": "edad",
+		"-0.2": "0"
+	},
+	{
+		"población": "derecho",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "labio",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "dios",
+		"-0.2": "0"
+	},
+	{
+		"población": "pertenecer",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "continuar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "matar",
+		"-0.2": "-1"
+	},
+	{
+		"población": "participar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "posible",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "pueblo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "medio",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "despertar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "espacio",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "distrito",
+		"-0.2": "0"
+	},
+	{
+		"población": "minuto",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "cantar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "igual",
+		"-0.2": "0.28570000000000001"
+	},
+	{
+		"población": "departamento",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "sacar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "nada",
+		"-0.2": "0"
+	},
+	{
+		"población": "cambio",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "gracia",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "blanco",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "personaje",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "semana",
+		"-0.2": "0"
+	},
+	{
+		"población": "ocupar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "bajo",
+		"-0.2": "0"
+	},
+	{
+		"población": "antiguo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "localidad",
+		"-0.2": "0"
+	},
+	{
+		"población": "lleno",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "ocurrir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "principio",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "negro",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "oscuro",
+		"-0.2": "0"
+	},
+	{
+		"población": "ejército",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "densidad",
+		"-0.2": "0"
+	},
+	{
+		"población": "hermoso",
+		"-0.2": "1"
+	},
+	{
+		"población": "feliz",
+		"-0.2": "1"
+	},
+	{
+		"población": "poblacional",
+		"-0.2": "0"
+	},
+	{
+		"población": "situación",
+		"-0.2": "0"
+	},
+	{
+		"población": "detener",
+		"-0.2": "0"
+	},
+	{
+		"población": "ayudar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "leer",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "anterior",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "largo",
+		"-0.2": "0"
+	},
+	{
+		"población": "acompañar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "abandonar",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "distinto",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "social",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "título",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "origen",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "desarrollar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "actual",
+		"-0.2": "0"
+	},
+	{
+		"población": "bello",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "mayoría",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "dedicar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "área",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "chico",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "importar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "clase",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "político",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "internacional",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "especial",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "sentimiento",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "alto",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "nivel",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "árbol",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "disco",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "pensamiento",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "cama",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "extraño",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "reconocer",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sufrir",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "superficie",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "actividad",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "programa",
+		"-0.2": "0"
+	},
+	{
+		"población": "edificio",
+		"-0.2": "0"
+	},
+	{
+		"población": "responder",
+		"-0.2": "0.42859999999999998"
+	},
+	{
+		"población": "comer",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "representar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "iniciar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "establecer",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "estación",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "hecho",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "mundial",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "suelo",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "oficina",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "ventana",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "empresa",
+		"-0.2": "0"
+	},
+	{
+		"población": "éxito",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "poseer",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "ley",
+		"-0.2": "0"
+	},
+	{
+		"población": "compañía",
+		"-0.2": "1"
+	},
+	{
+		"población": "suceder",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "instante",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cubrir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sociedad",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "reír",
+		"-0.2": "1"
+	},
+	{
+		"población": "traer",
+		"-0.2": "0"
+	},
+	{
+		"población": "versión",
+		"-0.2": "0"
+	},
+	{
+		"población": "lengua",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "uso",
+		"-0.2": "0"
+	},
+	{
+		"población": "cantón",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "entregar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "comprender",
+		"-0.2": "0.66669999999999996"
+	},
+	{
+		"población": "vivo",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "territorio",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "luna",
+		"-0.2": "0.83330000000000004"
+	},
+	{
+		"población": "vuelta",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "ofrecer",
+		"-0.2": "0.75"
+	},
+	{
+		"población": "destino",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "hoja",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sombra",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "diverso",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "base",
+		"-0.2": "0"
+	},
+	{
+		"población": "público",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "mover",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "libre",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "batalla",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "fondo",
+		"-0.2": "0"
+	},
+	{
+		"población": "acariciar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "millón",
+		"-0.2": "0"
+	},
+	{
+		"población": "fuego",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "flor",
+		"-0.2": "1"
+	},
+	{
+		"población": "don",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "resultar",
+		"-0.2": "0"
+	},
+	{
+		"población": "planta",
+		"-0.2": "1"
+	},
+	{
+		"población": "acuerdo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "nombrar",
+		"-0.2": "0"
+	},
+	{
+		"población": "joven",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "crecer",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "premio",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "componer",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "viaje",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "modo",
+		"-0.2": "0"
+	},
+	{
+		"población": "sonido",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "compañero",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "suponer",
+		"-0.2": "0"
+	},
+	{
+		"población": "desarrollo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "menor",
+		"-0.2": "0"
+	},
+	{
+		"población": "construcción",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "soler",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "animal",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "popular",
+		"-0.2": "0"
+	},
+	{
+		"población": "soñar",
+		"-0.2": "1"
+	},
+	{
+		"población": "fundar",
+		"-0.2": "0"
+	},
+	{
+		"población": "volar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "rojo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "cargo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "contener",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "fútbol",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "valor",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "proceso",
+		"-0.2": "0"
+	},
+	{
+		"población": "gritar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "estilo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "presencia",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "común",
+		"-0.2": "0"
+	},
+	{
+		"población": "ocasión",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "letra",
+		"-0.2": "0"
+	},
+	{
+		"población": "lluvia",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "división",
+		"-0.2": "0"
+	},
+	{
+		"población": "allá",
+		"-0.2": "0"
+	},
+	{
+		"población": "estudiar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "término",
+		"-0.2": "0"
+	},
+	{
+		"población": "reino",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "triste",
+		"-0.2": "-1"
+	},
+	{
+		"población": "lágrima",
+		"-0.2": "-0.16669999999999999"
+	},
+	{
+		"población": "producción",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "dirección",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "romper",
+		"-0.2": "0"
+	},
+	{
+		"población": "república",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "respuesta",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "acción",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "necesario",
+		"-0.2": "0"
+	},
+	{
+		"población": "natural",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "subir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "autor",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "disponer",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "soledad",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "malo",
+		"-0.2": "-1"
+	},
+	{
+		"población": "oficial",
+		"-0.2": "0"
+	},
+	{
+		"población": "televisión",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "cabo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "todavía",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "geografía",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "desaparecer",
+		"-0.2": "0"
+	},
+	{
+		"población": "separar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "económico",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "significar",
+		"-0.2": "0"
+	},
+	{
+		"población": "favor",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "jamás",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "director",
+		"-0.2": "0"
+	},
+	{
+		"población": "corresponder",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "habitación",
+		"-0.2": "0"
+	},
+	{
+		"población": "género",
+		"-0.2": "0"
+	},
+	{
+		"población": "comunidad",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "cierto",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "puerto",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sonreír",
+		"-0.2": "1"
+	},
+	{
+		"población": "deseo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "aceptar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "posición",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "década",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "verde",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "dedo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "alejar",
+		"-0.2": "0"
+	},
+	{
+		"población": "esposo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "pared",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "besar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "basar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "barrio",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "efecto",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "escapar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "cruzar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "oír",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "parque",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "fiesta",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "imaginar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "perro",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "permanecer",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "evitar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "bajar",
+		"-0.2": "0"
+	},
+	{
+		"población": "casar",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "elegir",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "recorrer",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "cumplir",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "fuente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "segundo",
+		"-0.2": "0"
+	},
+	{
+		"población": "memoria",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "esconder",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "cultura",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "resultado",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "nuevamente",
+		"-0.2": "0"
+	},
+	{
+		"población": "pecho",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "profesor",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "formular",
+		"-0.2": "0"
+	},
+	{
+		"población": "capital",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "existencia",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "episodio",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "verdadero",
+		"-0.2": "1"
+	},
+	{
+		"población": "figura",
+		"-0.2": "0"
+	},
+	{
+		"población": "denominar",
+		"-0.2": "0"
+	},
+	{
+		"población": "jefe",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "pena",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "comprar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "carta",
+		"-0.2": "0"
+	},
+	{
+		"población": "notar",
+		"-0.2": "0"
+	},
+	{
+		"población": "mandar",
+		"-0.2": "0"
+	},
+	{
+		"población": "atrás",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "marcar",
+		"-0.2": "0"
+	},
+	{
+		"población": "grito",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "demasiado",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "provocar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "elección",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "acto",
+		"-0.2": "0"
+	},
+	{
+		"población": "modelo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "jugador",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "libertad",
+		"-0.2": "1"
+	},
+	{
+		"población": "celebrar",
+		"-0.2": "1"
+	},
+	{
+		"población": "espalda",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "sitio",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "escritor",
+		"-0.2": "1"
+	},
+	{
+		"población": "siquiera",
+		"-0.2": "0"
+	},
+	{
+		"población": "explicar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "cantidad",
+		"-0.2": "0"
+	},
+	{
+		"población": "unión",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "lagrimar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "apenas",
+		"-0.2": "0"
+	},
+	{
+		"población": "aprender",
+		"-0.2": "1"
+	},
+	{
+		"población": "arma",
+		"-0.2": "-1"
+	},
+	{
+		"población": "hallar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "distancia",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "simple",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "teatro",
+		"-0.2": "1"
+	},
+	{
+		"población": "par",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "andar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "futuro",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "eterno",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "condición",
+		"-0.2": "0"
+	},
+	{
+		"población": "militar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "cuento",
+		"-0.2": "1"
+	},
+	{
+		"población": "ángel",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "golpe",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "objeto",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "organización",
+		"-0.2": "0"
+	},
+	{
+		"población": "abuelo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "radio",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "difícil",
+		"-0.2": "0"
+	},
+	{
+		"población": "viajar",
+		"-0.2": "1"
+	},
+	{
+		"población": "capaz",
+		"-0.2": "1"
+	},
+	{
+		"población": "montaña",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "esperanza",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "rodear",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "preparar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "pierna",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "canal",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "numeroso",
+		"-0.2": "0"
+	},
+	{
+		"población": "vestir",
+		"-0.2": "0"
+	},
+	{
+		"población": "elemento",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "control",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "calor",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "oeste",
+		"-0.2": "0"
+	},
+	{
+		"población": "función",
+		"-0.2": "0"
+	},
+	{
+		"población": "atención",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "compartir",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "necesidad",
+		"-0.2": "0"
+	},
+	{
+		"población": "musical",
+		"-0.2": "1"
+	},
+	{
+		"población": "piso",
+		"-0.2": "0"
+	},
+	{
+		"población": "seguro",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "ingreso",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "vender",
+		"-0.2": "0"
+	},
+	{
+		"población": "simplemente",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "completo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "interés",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "causar",
+		"-0.2": "0"
+	},
+	{
+		"población": "verano",
+		"-0.2": "1"
+	},
+	{
+		"población": "ala",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "mitad",
+		"-0.2": "0"
+	},
+	{
+		"población": "ciencia",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "hogar",
+		"-0.2": "1"
+	},
+	{
+		"población": "faltar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "rápido",
+		"-0.2": "0"
+	},
+	{
+		"población": "partido",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "enorme",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "nube",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "falta",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "guardar",
+		"-0.2": "0"
+	},
+	{
+		"población": "mesa",
+		"-0.2": "0"
+	},
+	{
+		"población": "extender",
+		"-0.2": "0"
+	},
+	{
+		"población": "oro",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "juntar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "similar",
+		"-0.2": "0"
+	},
+	{
+		"población": "enviar",
+		"-0.2": "0"
+	},
+	{
+		"población": "histórico",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "interpretar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "piedra",
+		"-0.2": "0"
+	},
+	{
+		"población": "frío",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "museo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "original",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "civil",
+		"-0.2": "0"
+	},
+	{
+		"población": "luchar",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "campo",
+		"-0.2": "1"
+	},
+	{
+		"población": "medida",
+		"-0.2": "0"
+	},
+	{
+		"población": "plan",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "apoyar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "información",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "producto",
+		"-0.2": "0"
+	},
+	{
+		"población": "unidad",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cercano",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "energía",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "alegría",
+		"-0.2": "1"
+	},
+	{
+		"población": "ayuda",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "llenar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "colocar",
+		"-0.2": "0"
+	},
+	{
+		"población": "avanzar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "encuentro",
+		"-0.2": "1"
+	},
+	{
+		"población": "especialmente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "escena",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "capacidad",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "profundo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "investigación",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "jardín",
+		"-0.2": "1"
+	},
+	{
+		"población": "gana",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "ropa",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cine",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "oscuridad",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "realmente",
+		"-0.2": "0"
+	},
+	{
+		"población": "retirar",
+		"-0.2": "0"
+	},
+	{
+		"población": "red",
+		"-0.2": "0"
+	},
+	{
+		"población": "parar",
+		"-0.2": "0"
+	},
+	{
+		"población": "tema",
+		"-0.2": "0"
+	},
+	{
+		"población": "describir",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "enfrentar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "parir",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "suerte",
+		"-0.2": "1"
+	},
+	{
+		"población": "edición",
+		"-0.2": "0"
+	},
+	{
+		"población": "ataque",
+		"-0.2": "-1"
+	},
+	{
+		"población": "abrazar",
+		"-0.2": "1"
+	},
+	{
+		"población": "consejo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "café",
+		"-0.2": "1"
+	},
+	{
+		"población": "muchacho",
+		"-0.2": "0"
+	},
+	{
+		"población": "cuarto",
+		"-0.2": "0"
+	},
+	{
+		"población": "revista",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "tristeza",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "carne",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "comuna",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "enamorar",
+		"-0.2": "1"
+	},
+	{
+		"población": "espejo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "conjunto",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "característica",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "corto",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "claro",
+		"-0.2": "1"
+	},
+	{
+		"población": "pacífico",
+		"-0.2": "1"
+	},
+	{
+		"población": "indicar",
+		"-0.2": "0"
+	},
+	{
+		"población": "felicidad",
+		"-0.2": "1"
+	},
+	{
+		"población": "sensación",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "oportunidad",
+		"-0.2": "1"
+	},
+	{
+		"población": "temer",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "campeonato",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "motivo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "rato",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "derrotar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "peso",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "sencillo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "duro",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "olor",
+		"-0.2": "0"
+	},
+	{
+		"población": "duda",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "puesto",
+		"-0.2": "0"
+	},
+	{
+		"población": "actuar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "principalmente",
+		"-0.2": "0"
+	},
+	{
+		"población": "referir",
+		"-0.2": "0"
+	},
+	{
+		"población": "detrás",
+		"-0.2": "0"
+	},
+	{
+		"población": "destruir",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "prueba",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "tenia",
+		"-0.2": "-1"
+	},
+	{
+		"población": "perfecto",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "pelo",
+		"-0.2": "0"
+	},
+	{
+		"población": "pasión",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "fecha",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cansar",
+		"-0.2": "-0.66669999999999996"
+	},
+	{
+		"población": "beber",
+		"-0.2": "1"
+	},
+	{
+		"población": "lucha",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "poeta",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "novela",
+		"-0.2": "1"
+	},
+	{
+		"población": "dato",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "limitar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "pez",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "repetir",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "creación",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "texto",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "naturaleza",
+		"-0.2": "1"
+	},
+	{
+		"población": "torre",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "constituir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "dulce",
+		"-0.2": "1"
+	},
+	{
+		"población": "obligar",
+		"-0.2": "-1"
+	},
+	{
+		"población": "mil",
+		"-0.2": "0"
+	},
+	{
+		"población": "pagar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "estructura",
+		"-0.2": "0"
+	},
+	{
+		"población": "copa",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "risa",
+		"-0.2": "1"
+	},
+	{
+		"población": "organizar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "municipal",
+		"-0.2": "0"
+	},
+	{
+		"población": "negar",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "diferencia",
+		"-0.2": "0"
+	},
+	{
+		"población": "intento",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "vía",
+		"-0.2": "0"
+	},
+	{
+		"población": "policía",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "demostrar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "formación",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "cultural",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "plata",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "período",
+		"-0.2": "0"
+	},
+	{
+		"población": "surgir",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "pieza",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "suave",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "guerra",
+		"-0.2": "-1"
+	},
+	{
+		"población": "vecino",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "vista",
+		"-0.2": "1"
+	},
+	{
+		"población": "aspecto",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "meter",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "amo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "cortar",
+		"-0.2": "0"
+	},
+	{
+		"población": "distribución",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "pregunta",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "paz",
+		"-0.2": "1"
+	},
+	{
+		"población": "fruto",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "belleza",
+		"-0.2": "1"
+	},
+	{
+		"población": "poema",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "suficiente",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "famoso",
+		"-0.2": "0"
+	},
+	{
+		"población": "artículo",
+		"-0.2": "0"
+	},
+	{
+		"población": "loco",
+		"-0.2": "0"
+	},
+	{
+		"población": "villa",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "perteneciente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "conservar",
+		"-0.2": "0"
+	},
+	{
+		"población": "dia",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "importancia",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "seguridad",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "educación",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "pasado",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sector",
+		"-0.2": "0"
+	},
+	{
+		"población": "determinar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "declarar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "posibilidad",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "dinero",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "experiencia",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "disfrutar",
+		"-0.2": "1"
+	},
+	{
+		"población": "carácter",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "velocidad",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "operación",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "decisión",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "preocupar",
+		"-0.2": "0"
+	},
+	{
+		"población": "debutar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "contestar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "mencionar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sonar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "quitar",
+		"-0.2": "-0.57140000000000002"
+	},
+	{
+		"población": "altura",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "huir",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "bosque",
+		"-0.2": "1"
+	},
+	{
+		"población": "imperio",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "ordenar",
+		"-0.2": "0"
+	},
+	{
+		"población": "residir",
+		"-0.2": "0"
+	},
+	{
+		"población": "selección",
+		"-0.2": "0"
+	},
+	{
+		"población": "fácil",
+		"-0.2": "0"
+	},
+	{
+		"población": "ministro",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "dueño",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "tropa",
+		"-0.2": "0"
+	},
+	{
+		"población": "propiedad",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "ruta",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "defensa",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "actor",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "reunir",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "despedir",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "trasladar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "bailar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "enfermedad",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "entrada",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "firme",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "anunciar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "busca",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "causa",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "atacar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "muerto",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "pareja",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "comercial",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "visitar",
+		"-0.2": "1"
+	},
+	{
+		"población": "tirar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "relacionar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "cabello",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "artista",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "espíritu",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "invitar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "local",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "firmar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "teoría",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "invierno",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "objetivo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "puente",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "lentamente",
+		"-0.2": "0"
+	},
+	{
+		"población": "imposible",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "sostener",
+		"-0.2": "0"
+	},
+	{
+		"población": "mercado",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "transformar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "cadena",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "personal",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "serio",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "conocimiento",
+		"-0.2": "1"
+	},
+	{
+		"población": "planeta",
+		"-0.2": "1"
+	},
+	{
+		"población": "solamente",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "comunicación",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "etapa",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "integrar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "marca",
+		"-0.2": "0"
+	},
+	{
+		"población": "categoría",
+		"-0.2": "0"
+	},
+	{
+		"población": "longitud",
+		"-0.2": "0"
+	},
+	{
+		"población": "peor",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "campaña",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "moderno",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "colegio",
+		"-0.2": "1"
+	},
+	{
+		"población": "vuelo",
+		"-0.2": "1"
+	},
+	{
+		"población": "grabar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "echar",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "asomar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "instituto",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "girar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "novio",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "apoyo",
+		"-0.2": "1"
+	},
+	{
+		"población": "tío",
+		"-0.2": "1"
+	},
+	{
+		"población": "preferir",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "tamaño",
+		"-0.2": "0"
+	},
+	{
+		"población": "emplear",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "periodo",
+		"-0.2": "0"
+	},
+	{
+		"población": "nave",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "material",
+		"-0.2": "0"
+	},
+	{
+		"población": "esfuerzo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "amplio",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "adquirir",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "tren",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "error",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "secreto",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "universo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "desconocer",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "federación",
+		"-0.2": "0"
+	},
+	{
+		"población": "cuello",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "pintura",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "elevar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "ilusión",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "grado",
+		"-0.2": "0"
+	},
+	{
+		"población": "palacio",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "cámara",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "ruido",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "listo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "economía",
+		"-0.2": "0"
+	},
+	{
+		"población": "actualidad",
+		"-0.2": "0"
+	},
+	{
+		"población": "proponer",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "poesía",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "kilómetro",
+		"-0.2": "0"
+	},
+	{
+		"población": "callar",
+		"-0.2": "0"
+	},
+	{
+		"población": "enseñar",
+		"-0.2": "1"
+	},
+	{
+		"población": "sede",
+		"-0.2": "0"
+	},
+	{
+		"población": "aumentar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sorprender",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "cuidar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "hospital",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "ausencia",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "doler",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "posterior",
+		"-0.2": "0"
+	},
+	{
+		"población": "llanto",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "cápita",
+		"-0.2": "0"
+	},
+	{
+		"población": "respirar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "marchar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "noticia",
+		"-0.2": "0"
+	},
+	{
+		"población": "frase",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "próximo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "aproximadamente",
+		"-0.2": "0"
+	},
+	{
+		"población": "costar",
+		"-0.2": "0"
+	},
+	{
+		"población": "inicio",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "izquierdo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "autoridad",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "vino",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "recuperar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "protagonizar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "comienzo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "influencia",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "rápidamente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "habitar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "deportivo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "nación",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "avión",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "tranquilo",
+		"-0.2": "1"
+	},
+	{
+		"población": "expresión",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "raro",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "debajo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "reducir",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "diseño",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "festival",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "azul",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "tradicional",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "adelante",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cargar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "directo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "proteger",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "pobre",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "placer",
+		"-0.2": "1"
+	},
+	{
+		"población": "reloj",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "caricia",
+		"-0.2": "1"
+	},
+	{
+		"población": "motor",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "doctor",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "presente",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "completamente",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "página",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "playa",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "robar",
+		"-0.2": "-1"
+	},
+	{
+		"población": "señalar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "totalmente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "vacío",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "incorporar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "matrimonio",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "capitán",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "generar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "salvar",
+		"-0.2": "1"
+	},
+	{
+		"población": "señal",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "conducir",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "lago",
+		"-0.2": "1"
+	},
+	{
+		"población": "caballo",
+		"-0.2": "1"
+	},
+	{
+		"población": "golpear",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "asi",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "metal",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "líder",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "lejano",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "abrazo",
+		"-0.2": "1"
+	},
+	{
+		"población": "daño",
+		"-0.2": "-1"
+	},
+	{
+		"población": "recoger",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "consecuencia",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "encender",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "costumbre",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "baño",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "liga",
+		"-0.2": "0"
+	},
+	{
+		"población": "religioso",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "gota",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "dudar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "caja",
+		"-0.2": "0"
+	},
+	{
+		"población": "definir",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "atravesar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "expresar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "ave",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "soldado",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "templo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "calidad",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "envolver",
+		"-0.2": "0"
+	},
+	{
+		"población": "sexo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "clima",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "idioma",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "torneo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "institución",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "gol",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "tradición",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "emitir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "independiente",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "puro",
+		"-0.2": "1"
+	},
+	{
+		"población": "sabor",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "lento",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "afirmar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "asunto",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "maestro",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "asociación",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "vencer",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "revolución",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "consistir",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "algo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "descansar",
+		"-0.2": "1"
+	},
+	{
+		"población": "funcionar",
+		"-0.2": "0.625"
+	},
+	{
+		"población": "gusto",
+		"-0.2": "0.57140000000000002"
+	},
+	{
+		"población": "concepto",
+		"-0.2": "0.375"
+	},
+	{
+		"población": "temor",
+		"-0.2": "-0.75"
+	},
+	{
+		"población": "conciencia",
+		"-0.2": "0.375"
+	},
+	{
+		"población": "introducir",
+		"-0.2": "0.25"
+	},
+	{
+		"población": "hombro",
+		"-0.2": "0.3"
+	},
+	{
+		"población": "fallecer",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "mamá",
+		"-0.2": "0.9"
+	},
+	{
+		"población": "oído",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "geográfico",
+		"-0.2": "0.18179999999999999"
+	},
+	{
+		"población": "erar",
+		"-0.2": "-0.28570000000000001"
+	},
+	{
+		"población": "asegurar",
+		"-0.2": "0.45450000000000002"
+	},
+	{
+		"población": "contemplar",
+		"-0.2": "0.63639999999999997"
+	},
+	{
+		"población": "esquina",
+		"-0.2": "8.3299999999999999E-2"
+	},
+	{
+		"población": "cuanto",
+		"-0.2": "0.1111"
+	},
+	{
+		"población": "gato",
+		"-0.2": "0.72729999999999995"
+	},
+	{
+		"población": "encargar",
+		"-0.2": "0.1"
+	},
+	{
+		"población": "estadio",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "curso",
+		"-0.2": "0.1111"
+	},
+	{
+		"población": "recién",
+		"-0.2": "0.25"
+	},
+	{
+		"población": "animar",
+		"-0.2": "0.71430000000000005"
+	},
+	{
+		"población": "foto",
+		"-0.2": "0.57140000000000002"
+	},
+	{
+		"población": "terreno",
+		"-0.2": "0.28570000000000001"
+	},
+	{
+		"población": "locura",
+		"-0.2": "-0.1429"
+	},
+	{
+		"población": "corte",
+		"-0.2": "-0.33329999999999999"
+	},
+	{
+		"población": "salud",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "auto",
+		"-0.2": "0"
+	},
+	{
+		"población": "temperatura",
+		"-0.2": "0"
+	},
+	{
+		"población": "intención",
+		"-0.2": "0"
+	},
+	{
+		"población": "dividir",
+		"-0.2": "-0.16669999999999999"
+	},
+	{
+		"población": "mentira",
+		"-0.2": "-0.16669999999999999"
+	},
+	{
+		"población": "desnudo",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "depender",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "cristal",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "marcha",
+		"-0.2": "-0.16669999999999999"
+	},
+	{
+		"población": "tarea",
+		"-0.2": "0"
+	},
+	{
+		"población": "superar",
+		"-0.2": "1"
+	},
+	{
+		"población": "crítico",
+		"-0.2": "0.1429"
+	},
+	{
+		"población": "frontera",
+		"-0.2": "0"
+	},
+	{
+		"población": "evento",
+		"-0.2": "0"
+	},
+	{
+		"población": "apagar",
+		"-0.2": "-0.1429"
+	},
+	{
+		"población": "teléfono",
+		"-0.2": "0.125"
+	},
+	{
+		"población": "haz",
+		"-0.2": "0.375"
+	},
+	{
+		"población": "profesional",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "clásico",
+		"-0.2": "0.625"
+	},
+	{
+		"población": "tono",
+		"-0.2": "0.125"
+	},
+	{
+		"población": "primero",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "controlar",
+		"-0.2": "-0.25"
+	},
+	{
+		"población": "derecha",
+		"-0.2": "-0.25"
+	},
+	{
+		"población": "cocina",
+		"-0.2": "0.625"
+	},
+	{
+		"población": "disputar",
+		"-0.2": "-0.22220000000000001"
+	},
+	{
+		"población": "raíz",
+		"-0.2": "0.22220000000000001"
+	},
+	{
+		"población": "seco",
+		"-0.2": "-0.22220000000000001"
+	},
+	{
+		"población": "mediar",
+		"-0.2": "0.66669999999999996"
+	},
+	{
+		"población": "designar",
+		"-0.2": "0"
+	},
+	{
+		"población": "gesto",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "detalle",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "olvido",
+		"-0.2": "-1"
+	},
+	{
+		"población": "confundir",
+		"-0.2": "-0.5"
+	},
+	{
+		"población": "diario",
+		"-0.2": "0"
+	},
+	{
+		"población": "punta",
+		"-0.2": "0"
+	},
+	{
+		"población": "ambiente",
+		"-0.2": "0.71430000000000005"
+	},
+	{
+		"población": "comida",
+		"-0.2": "1"
+	},
+	{
+		"población": "administración",
+		"-0.2": "0"
+	},
+	{
+		"población": "recurso",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "contacto",
+		"-0.2": "0.66669999999999996"
+	},
+	{
+		"población": "literatura",
+		"-0.2": "1"
+	},
+	{
+		"población": "guitarra",
+		"-0.2": "1"
+	},
+	{
+		"población": "mensaje",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "completar",
+		"-0.2": "0.42859999999999998"
+	},
+	{
+		"población": "acceso",
+		"-0.2": "0.1429"
+	},
+	{
+		"población": "gris",
+		"-0.2": "-0.1429"
+	},
+	{
+		"población": "iluminar",
+		"-0.2": "0.71430000000000005"
+	},
+	{
+		"población": "soportar",
+		"-0.2": "-0.75"
+	},
+	{
+		"población": "método",
+		"-0.2": "0.28570000000000001"
+	},
+	{
+		"población": "herir",
+		"-0.2": "-0.85709999999999997"
+	},
+	{
+		"población": "aragón",
+		"-0.2": "0"
+	},
+	{
+		"población": "finalizar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "rincón",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "concierto",
+		"-0.2": "0.83330000000000004"
+	},
+	{
+		"población": "defender",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "odiar",
+		"-0.2": "-1"
+	},
+	{
+		"población": "hasta",
+		"-0.2": "-0.16669999999999999"
+	},
+	{
+		"población": "masa",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "fundación",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "límite",
+		"-0.2": "0.1429"
+	},
+	{
+		"población": "privar",
+		"-0.2": "-0.83330000000000004"
+	},
+	{
+		"población": "federal",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "rayo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "congreso",
+		"-0.2": "0"
+	},
+	{
+		"población": "pretender",
+		"-0.2": "0"
+	},
+	{
+		"población": "saltar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "coleóptero",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "instalar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "hueso",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "pan",
+		"-0.2": "1"
+	},
+	{
+		"población": "entero",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "valer",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "generalmente",
+		"-0.2": "0"
+	},
+	{
+		"población": "inmediato",
+		"-0.2": "0"
+	},
+	{
+		"población": "rumbo",
+		"-0.2": "0.42859999999999998"
+	},
+	{
+		"población": "inmenso",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "impedir",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "sorpresa",
+		"-0.2": "1"
+	},
+	{
+		"población": "extrañar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "compuesto",
+		"-0.2": "0"
+	},
+	{
+		"población": "estudiante",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "pleno",
+		"-0.2": "0.71430000000000005"
+	},
+	{
+		"población": "diseñar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "san",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "paisaje",
+		"-0.2": "0.85709999999999997"
+	},
+	{
+		"población": "armar",
+		"-0.2": "0.57140000000000002"
+	},
+	{
+		"población": "generación",
+		"-0.2": "0.1429"
+	},
+	{
+		"población": "reflejar",
+		"-0.2": "0.28570000000000001"
+	},
+	{
+		"población": "acordar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "culpa",
+		"-0.2": "-1"
+	},
+	{
+		"población": "medir",
+		"-0.2": "0"
+	},
+	{
+		"población": "emoción",
+		"-0.2": "0.83330000000000004"
+	},
+	{
+		"población": "morfología",
+		"-0.2": "0"
+	},
+	{
+		"población": "cuestión",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "emperador",
+		"-0.2": "0"
+	},
+	{
+		"población": "arena",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "ritmo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "misión",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "durar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "conflicto",
+		"-0.2": "-0.83330000000000004"
+	},
+	{
+		"población": "descripción",
+		"-0.2": "0"
+	},
+	{
+		"población": "rico",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "brillar",
+		"-0.2": "1"
+	},
+	{
+		"población": "aeropuerto",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "aprovechar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "the",
+		"-0.2": "0"
+	},
+	{
+		"población": "constante",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "biografía",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "silla",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "dicha",
+		"-0.2": "0.83330000000000004"
+	},
+	{
+		"población": "justo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "coordenada",
+		"-0.2": "0"
+	},
+	{
+		"población": "negocio",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "visión",
+		"-0.2": "0"
+	},
+	{
+		"población": "ultimar",
+		"-0.2": "-0.33329999999999999"
+	},
+	{
+		"población": "participación",
+		"-0.2": "0.66669999999999996"
+	},
+	{
+		"población": "justicia",
+		"-0.2": "0.83330000000000004"
+	},
+	{
+		"población": "gobernar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "pintar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "diente",
+		"-0.2": "0"
+	},
+	{
+		"población": "interesar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "aparición",
+		"-0.2": "0"
+	},
+	{
+		"población": "localizar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "técnico",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "artístico",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "convencer",
+		"-0.2": "0"
+	},
+	{
+		"población": "particular",
+		"-0.2": "0"
+	},
+	{
+		"población": "asustar",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "hábitat",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "enemigo",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "mezclar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "requerir",
+		"-0.2": "0"
+	},
+	{
+		"población": "literario",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "primavera",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "escalera",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "médico",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "colección",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "instrumento",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "intenso",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "quizá",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "carga",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "vehículo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "invadir",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "ocultar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "dejo",
+		"-0.2": "0"
+	},
+	{
+		"población": "referencia",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "secretario",
+		"-0.2": "0"
+	},
+	{
+		"población": "humanidad",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "comentar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "actuación",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "guardia",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "dibujar",
+		"-0.2": "1"
+	},
+	{
+		"población": "destinar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "escenario",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "combate",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "visita",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "hambre",
+		"-0.2": "-1"
+	},
+	{
+		"población": "alimento",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "femenino",
+		"-0.2": "1"
+	},
+	{
+		"población": "quemar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "doble",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "ingresar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "asesinar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "academia",
+		"-0.2": "0"
+	},
+	{
+		"población": "regalo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "probablemente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "conformar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "muro",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "tender",
+		"-0.2": "0"
+	},
+	{
+		"población": "coche",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "aéreo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "eléctrico",
+		"-0.2": "0"
+	},
+	{
+		"población": "castilla",
+		"-0.2": "0"
+	},
+	{
+		"población": "plaza",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "húmedo",
+		"-0.2": "-0.16669999999999999"
+	},
+	{
+		"población": "cuadro",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "rosa",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "cariño",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "aplicar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "mejorar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "breve",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "atrapar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "escudo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "campeón",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "otorgar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "lenguaje",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "monte",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "extremo",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "ejercer",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "flotar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "probar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "fase",
+		"-0.2": "0"
+	},
+	{
+		"población": "industria",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "afectar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "deslizar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "marido",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "contrato",
+		"-0.2": "0"
+	},
+	{
+		"población": "arqueológico",
+		"-0.2": "0"
+	},
+	{
+		"población": "liberar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "caballero",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "alimentar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "variar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "orilla",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "inferior",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "hotel",
+		"-0.2": "0.83330000000000004"
+	},
+	{
+		"población": "salón",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "sala",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "máquina",
+		"-0.2": "0"
+	},
+	{
+		"población": "biblioteca",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "materia",
+		"-0.2": "0"
+	},
+	{
+		"población": "infierno",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "fijar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "repente",
+		"-0.2": "0"
+	},
+	{
+		"población": "extensión",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "regreso",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "solitario",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "representación",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "comisión",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "publicación",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "aliento",
+		"-0.2": "0"
+	},
+	{
+		"población": "asumir",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "exterior",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "techo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "tecnología",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "directamente",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "conversación",
+		"-0.2": "1"
+	},
+	{
+		"población": "físico",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "voluntad",
+		"-0.2": "0.66669999999999996"
+	},
+	{
+		"población": "absoluto",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "actriz",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "horizonte",
+		"-0.2": "1"
+	},
+	{
+		"población": "sur",
+		"-0.2": "0.83330000000000004"
+	},
+	{
+		"población": "polvo",
+		"-0.2": "0"
+	},
+	{
+		"población": "tormenta",
+		"-0.2": "0"
+	},
+	{
+		"población": "susurrar",
+		"-0.2": "0.66669999999999996"
+	},
+	{
+		"población": "caracterizar",
+		"-0.2": "0"
+	},
+	{
+		"población": "periódico",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "típico",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "juventud",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "botánico",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "princesa",
+		"-0.2": "0"
+	},
+	{
+		"población": "política",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "brillante",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "rama",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "presión",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "transporte",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "prestar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "llegada",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "añadir",
+		"-0.2": "0"
+	},
+	{
+		"población": "labor",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "respecto",
+		"-0.2": "0"
+	},
+	{
+		"población": "religión",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "precio",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "distinguir",
+		"-0.2": "0"
+	},
+	{
+		"población": "rechazar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "brisa",
+		"-0.2": "1"
+	},
+	{
+		"población": "verso",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "aroma",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "oponer",
+		"-0.2": "0"
+	},
+	{
+		"población": "montar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "columna",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "mierda",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "falso",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "solución",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "escaso",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "arrancar",
+		"-0.2": "0"
+	},
+	{
+		"población": "amante",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "susurro",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "código",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "búsqueda",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "constitución",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "patio",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "voto",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "regional",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "pérdida",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "imponer",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "mágico",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "documento",
+		"-0.2": "0"
+	},
+	{
+		"población": "fantasma",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "gira",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "capilla",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "leyenda",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "interior",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "mejilla",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "pedazo",
+		"-0.2": "0"
+	},
+	{
+		"población": "sección",
+		"-0.2": "0"
+	},
+	{
+		"población": "pájaro",
+		"-0.2": "1"
+	},
+	{
+		"población": "demonio",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "obispo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "suspiro",
+		"-0.2": "1"
+	},
+	{
+		"población": "humo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "papa",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "roca",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "víctima",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "colgar",
+		"-0.2": "0"
+	},
+	{
+		"población": "individuo",
+		"-0.2": "0"
+	},
+	{
+		"población": "titular",
+		"-0.2": "0"
+	},
+	{
+		"población": "ajeno",
+		"-0.2": "0"
+	},
+	{
+		"población": "crecimiento",
+		"-0.2": "1"
+	},
+	{
+		"población": "variedad",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "príncipe",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "alumno",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "frecuencia",
+		"-0.2": "0"
+	},
+	{
+		"población": "terrible",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "merecer",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "caída",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "dólar",
+		"-0.2": "0"
+	},
+	{
+		"población": "deporte",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "provenir",
+		"-0.2": "0"
+	},
+	{
+		"población": "llave",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "compositor",
+		"-0.2": "0.83330000000000004"
+	},
+	{
+		"población": "latir",
+		"-0.2": "0.83330000000000004"
+	},
+	{
+		"población": "aplicación",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "exposición",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "interno",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "sexual",
+		"-0.2": "0.85709999999999997"
+	},
+	{
+		"población": "máximo",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "actitud",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "carcajada",
+		"-0.2": "1"
+	},
+	{
+		"población": "catedral",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "encerrar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "arrastrar",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "católico",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "devolver",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "relato",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "composición",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "nacimiento",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "asentamiento",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "símbolo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "contenido",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "vestido",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "crisis",
+		"-0.2": "0"
+	},
+	{
+		"población": "magia",
+		"-0.2": "1"
+	},
+	{
+		"población": "video",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "científico",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "papá",
+		"-0.2": "1"
+	},
+	{
+		"población": "barco",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "comandante",
+		"-0.2": "0"
+	},
+	{
+		"población": "banda",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "continuo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "comercio",
+		"-0.2": "0"
+	},
+	{
+		"población": "seriar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "resolver",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cola",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "duque",
+		"-0.2": "0"
+	},
+	{
+		"población": "inspirar",
+		"-0.2": "1"
+	},
+	{
+		"población": "diputado",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "familiar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "dominio",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "filosofía",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "reinar",
+		"-0.2": "0"
+	},
+	{
+		"población": "caber",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "eliminar",
+		"-0.2": "0"
+	},
+	{
+		"población": "and",
+		"-0.2": "0"
+	},
+	{
+		"población": "regalar",
+		"-0.2": "1"
+	},
+	{
+		"población": "esencia",
+		"-0.2": "1"
+	},
+	{
+		"población": "toma",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "derivar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "pegar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "vaso",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "normal",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "ligero",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "régimen",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "gobernador",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "amanecer",
+		"-0.2": "1"
+	},
+	{
+		"población": "cantante",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "activo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "divino",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "sobrevivir",
+		"-0.2": "0"
+	},
+	{
+		"población": "reconocimiento",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "infinito",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "monumento",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "madera",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "arquitectura",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "graduar",
+		"-0.2": "0"
+	},
+	{
+		"población": "asistir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "ola",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "candidato",
+		"-0.2": "0"
+	},
+	{
+		"población": "círculo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "pobreza",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "volumen",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "prometer",
+		"-0.2": "0"
+	},
+	{
+		"población": "cerebro",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "espada",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "opinión",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "nota",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "odio",
+		"-0.2": "-1"
+	},
+	{
+		"población": "sierra",
+		"-0.2": "0"
+	},
+	{
+		"población": "botella",
+		"-0.2": "0"
+	},
+	{
+		"población": "partida",
+		"-0.2": "0"
+	},
+	{
+		"población": "prohibir",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "citar",
+		"-0.2": "0"
+	},
+	{
+		"población": "acá",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "proporcionar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "núcleo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "práctico",
+		"-0.2": "0"
+	},
+	{
+		"población": "izquierda",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "identificar",
+		"-0.2": "0"
+	},
+	{
+		"población": "disparar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "nariz",
+		"-0.2": "0"
+	},
+	{
+		"población": "constitucional",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "transmitir",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "infancia",
+		"-0.2": "1"
+	},
+	{
+		"población": "océano",
+		"-0.2": "1"
+	},
+	{
+		"población": "editar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "encima",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "instalación",
+		"-0.2": "0"
+	},
+	{
+		"población": "periodista",
+		"-0.2": "0"
+	},
+	{
+		"población": "perseguir",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "enterar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "peligro",
+		"-0.2": "-1"
+	},
+	{
+		"población": "vivienda",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "macho",
+		"-0.2": "0"
+	},
+	{
+		"población": "grabación",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "garganta",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "zapato",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "aventura",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "grave",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "reacción",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "aferrar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "dibujo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "americano",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "inmediatamente",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "amistad",
+		"-0.2": "1"
+	},
+	{
+		"población": "desierto",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "revelar",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "marco",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "hundir",
+		"-0.2": "-0.66669999999999996"
+	},
+	{
+		"población": "ferrocarril",
+		"-0.2": "0.66669999999999996"
+	},
+	{
+		"población": "secundario",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "tumba",
+		"-0.2": "-0.5"
+	},
+	{
+		"población": "temblar",
+		"-0.2": "-0.5"
+	},
+	{
+		"población": "salar",
+		"-0.2": "0"
+	},
+	{
+		"población": "exponer",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sabio",
+		"-0.2": "1"
+	},
+	{
+		"población": "atrever",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "acostumbrar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "estrenar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "pintor",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "habia",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "capítulo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "circunstancia",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "bolsillo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "operar",
+		"-0.2": "0"
+	},
+	{
+		"población": "reflejo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sucio",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "asiento",
+		"-0.2": "0"
+	},
+	{
+		"población": "músico",
+		"-0.2": "1"
+	},
+	{
+		"población": "comunicar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "ligar",
+		"-0.2": "0"
+	},
+	{
+		"población": "atraer",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "molestar",
+		"-0.2": "-1"
+	},
+	{
+		"población": "registrar",
+		"-0.2": "0"
+	},
+	{
+		"población": "herido",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "ancho",
+		"-0.2": "0"
+	},
+	{
+		"población": "ministerio",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "comentario",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "habitual",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "consumir",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "propósito",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "básico",
+		"-0.2": "0"
+	},
+	{
+		"población": "bar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "inventar",
+		"-0.2": "1"
+	},
+	{
+		"población": "torno",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "ayuntamiento",
+		"-0.2": "-0.16669999999999999"
+	},
+	{
+		"población": "mínimo",
+		"-0.2": "0"
+	},
+	{
+		"población": "agregar",
+		"-0.2": "0"
+	},
+	{
+		"población": "tratamiento",
+		"-0.2": "-0.33329999999999999"
+	},
+	{
+		"población": "facultad",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "cristo",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "nervioso",
+		"-0.2": "-1"
+	},
+	{
+		"población": "inaugurar",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "condenar",
+		"-0.2": "-0.66669999999999996"
+	},
+	{
+		"población": "profundidad",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "bonito",
+		"-0.2": "1"
+	},
+	{
+		"población": "buque",
+		"-0.2": "0"
+	},
+	{
+		"población": "confirmar",
+		"-0.2": "0"
+	},
+	{
+		"población": "latino",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "personalidad",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "huella",
+		"-0.2": "0"
+	},
+	{
+		"población": "protección",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "moneda",
+		"-0.2": "0"
+	},
+	{
+		"población": "apreciar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "juicio",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "bolsa",
+		"-0.2": "0"
+	},
+	{
+		"población": "expedición",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "estremecer",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "trabajador",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "tropical",
+		"-0.2": "1"
+	},
+	{
+		"población": "coger",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "ciento",
+		"-0.2": "0"
+	},
+	{
+		"población": "pantalla",
+		"-0.2": "0"
+	},
+	{
+		"población": "entorno",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "interpretación",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "verme",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "patrón",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "misterio",
+		"-0.2": "0"
+	},
+	{
+		"población": "clasificar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "riesgo",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "angustia",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "infantil",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "saludar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "tienda",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "célula",
+		"-0.2": "0"
+	},
+	{
+		"población": "gemir",
+		"-0.2": "0"
+	},
+	{
+		"población": "accidente",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "parroquia",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "desempeñar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "testigo",
+		"-0.2": "0"
+	},
+	{
+		"población": "tomo",
+		"-0.2": "0"
+	},
+	{
+		"población": "coronel",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "tierno",
+		"-0.2": "1"
+	},
+	{
+		"población": "adoptar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "pasillo",
+		"-0.2": "0"
+	},
+	{
+		"población": "dominar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "habilidad",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "protagonista",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "espectáculo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "pista",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "melodía",
+		"-0.2": "1"
+	},
+	{
+		"población": "percibir",
+		"-0.2": "1"
+	},
+	{
+		"población": "promesa",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "ternura",
+		"-0.2": "1"
+	},
+	{
+		"población": "soltar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "superior",
+		"-0.2": "0"
+	},
+	{
+		"población": "factor",
+		"-0.2": "0"
+	},
+	{
+		"población": "conquistar",
+		"-0.2": "0"
+	},
+	{
+		"población": "conceder",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "discográfico",
+		"-0.2": "0"
+	},
+	{
+		"población": "charlar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "hielo",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "maravilloso",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "estatal",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "regla",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "lanzamiento",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "corazon",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "explicación",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "técnica",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cliente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "químico",
+		"-0.2": "0"
+	},
+	{
+		"población": "amenazar",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "argumento",
+		"-0.2": "0"
+	},
+	{
+		"población": "fantasía",
+		"-0.2": "1"
+	},
+	{
+		"población": "presidir",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "costa",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "complejo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "fino",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "oculto",
+		"-0.2": "0"
+	},
+	{
+		"población": "bastar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "forzar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "diócesis",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "show",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "futbolista",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "opción",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "fresco",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "cálido",
+		"-0.2": "1"
+	},
+	{
+		"población": "autónomo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "sello",
+		"-0.2": "0"
+	},
+	{
+		"población": "diferenciar",
+		"-0.2": "0"
+	},
+	{
+		"población": "trayectoria",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "enterrar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "anciano",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "ejecutar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "reforma",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "fama",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "monasterio",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "maldito",
+		"-0.2": "-1"
+	},
+	{
+		"población": "encantar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "carretero",
+		"-0.2": "0"
+	},
+	{
+		"población": "confianza",
+		"-0.2": "1"
+	},
+	{
+		"población": "brillo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "representante",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "ascender",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "concluir",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "cigarrillo",
+		"-0.2": "0"
+	},
+	{
+		"población": "presentación",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "transportar",
+		"-0.2": "0"
+	},
+	{
+		"población": "centrar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "capturar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "medalla",
+		"-0.2": "1"
+	},
+	{
+		"población": "análisis",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "acceder",
+		"-0.2": "1"
+	},
+	{
+		"población": "carro",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "dimensión",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "arquitecto",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "cruel",
+		"-0.2": "-1"
+	},
+	{
+		"población": "leche",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "colaborar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "salida",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "internet",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cueva",
+		"-0.2": "0"
+	},
+	{
+		"población": "sustituir",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "pronunciar",
+		"-0.2": "0"
+	},
+	{
+		"población": "provincial",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "copar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "olímpico",
+		"-0.2": "1"
+	},
+	{
+		"población": "trato",
+		"-0.2": "0"
+	},
+	{
+		"población": "ceder",
+		"-0.2": "0"
+	},
+	{
+		"población": "registro",
+		"-0.2": "0"
+	},
+	{
+		"población": "sacerdote",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "gonzález",
+		"-0.2": "0"
+	},
+	{
+		"población": "jamar",
+		"-0.2": "0"
+	},
+	{
+		"población": "héroe",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "originalmente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "carretera",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "elaborar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "fabricar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "reemplazar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "acudir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "dama",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "copia",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "eco",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "cerveza",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "asamblea",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "alegre",
+		"-0.2": "1"
+	},
+	{
+		"población": "poderoso",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "normalmente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "espera",
+		"-0.2": "0"
+	},
+	{
+		"población": "banco",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "lindo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "alianza",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "violencia",
+		"-0.2": "-1"
+	},
+	{
+		"población": "cementerio",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "equivocar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "cañón",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "entidad",
+		"-0.2": "0"
+	},
+	{
+		"población": "apretar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "fenómeno",
+		"-0.2": "1"
+	},
+	{
+		"población": "bañar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "descanso",
+		"-0.2": "1"
+	},
+	{
+		"población": "pantalón",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "concentrar",
+		"-0.2": "1"
+	},
+	{
+		"población": "interesante",
+		"-0.2": "1"
+	},
+	{
+		"población": "logro",
+		"-0.2": "1"
+	},
+	{
+		"población": "rural",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "disponible",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "muestra",
+		"-0.2": "0"
+	},
+	{
+		"población": "descender",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "desesperar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "clavar",
+		"-0.2": "0"
+	},
+	{
+		"población": "arrojar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "acontecimiento",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "conectar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "informar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "cultivo",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "conocido",
+		"-0.2": "0"
+	},
+	{
+		"población": "fila",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "agradecer",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "secar",
+		"-0.2": "0"
+	},
+	{
+		"población": "apuntar",
+		"-0.2": "0"
+	},
+	{
+		"población": "agente",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "practicar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "proyectar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "hierro",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "criatura",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "cadáver",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "competencia",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "mancha",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "alba",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "someter",
+		"-0.2": "-1"
+	},
+	{
+		"población": "transcurrir",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "atender",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "asesinato",
+		"-0.2": "-1"
+	},
+	{
+		"población": "fábrica",
+		"-0.2": "0"
+	},
+	{
+		"población": "otoño",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "rodar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "organismo",
+		"-0.2": "0"
+	},
+	{
+		"población": "ingeniero",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "electrónico",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "imaginación",
+		"-0.2": "1"
+	},
+	{
+		"población": "juez",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "cristiano",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "localización",
+		"-0.2": "0"
+	},
+	{
+		"población": "vientre",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "vicepresidente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "umbral",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "encabezar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "mapa",
+		"-0.2": "0"
+	},
+	{
+		"población": "anual",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "rodilla",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "dificultad",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "reciente",
+		"-0.2": "0"
+	},
+	{
+		"población": "curiosidad",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "únicamente",
+		"-0.2": "0"
+	},
+	{
+		"población": "órgano",
+		"-0.2": "0"
+	},
+	{
+		"población": "plato",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "prensa",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "interrumpir",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "ciudadano",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "calma",
+		"-0.2": "1"
+	},
+	{
+		"población": "ópera",
+		"-0.2": "1"
+	},
+	{
+		"población": "formato",
+		"-0.2": "0"
+	},
+	{
+		"población": "sugerir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "figurar",
+		"-0.2": "0"
+	},
+	{
+		"población": "borde",
+		"-0.2": "0"
+	},
+	{
+		"población": "experimentar",
+		"-0.2": "0.66669999999999996"
+	},
+	{
+		"población": "débil",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "enseñanza",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "ignorar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "portar",
+		"-0.2": "0"
+	},
+	{
+		"población": "tabla",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "perdón",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "sumar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "excepción",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "aprobar",
+		"-0.2": "1"
+	},
+	{
+		"población": "continuación",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "sudor",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "fiel",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "contrario",
+		"-0.2": "0"
+	},
+	{
+		"población": "tribu",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "traje",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "dulzura",
+		"-0.2": "1"
+	},
+	{
+		"población": "nocturno",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "múltiple",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "confiar",
+		"-0.2": "1"
+	},
+	{
+		"población": "cometer",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "sufrimiento",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "asociar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "combatir",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "capa",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "paseo",
+		"-0.2": "1"
+	},
+	{
+		"población": "agricultura",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "lectura",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "rendir",
+		"-0.2": "0"
+	},
+	{
+		"población": "coordenado",
+		"-0.2": "0"
+	},
+	{
+		"población": "cuidado",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "nieve",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "clasificación",
+		"-0.2": "0"
+	},
+	{
+		"población": "preciso",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "celular",
+		"-0.2": "0"
+	},
+	{
+		"población": "nieto",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "vena",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "piano",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "pasear",
+		"-0.2": "1"
+	},
+	{
+		"población": "ámbito",
+		"-0.2": "0"
+	},
+	{
+		"población": "debut",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "avenir",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "identidad",
+		"-0.2": "0"
+	},
+	{
+		"población": "colaboración",
+		"-0.2": "1"
+	},
+	{
+		"población": "medicina",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "exigir",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "venta",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "denominación",
+		"-0.2": "0"
+	},
+	{
+		"población": "temprano",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "recostar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "infraestructura",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "peligroso",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "fundamental",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "lobo",
+		"-0.2": "0"
+	},
+	{
+		"población": "península",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "perdonar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "fijamente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "mio",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "promedio",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "evolución",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "estatua",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "coalición",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "tribunal",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "llover",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "potencia",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "seguramente",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "comportamiento",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "invasión",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "valle",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "noreste",
+		"-0.2": "0"
+	},
+	{
+		"población": "cuadrar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "asesino",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "brotar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "camisa",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "semilla",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "respeto",
+		"-0.2": "1"
+	},
+	{
+		"población": "fotografía",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "distribuir",
+		"-0.2": "0"
+	},
+	{
+		"población": "indio",
+		"-0.2": "0"
+	},
+	{
+		"población": "alcohol",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "taller",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "proceder",
+		"-0.2": "0"
+	},
+	{
+		"población": "presa",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "onda",
+		"-0.2": "1"
+	},
+	{
+		"población": "pelear",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "prácticamente",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "correcto",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "retablo",
+		"-0.2": "0"
+	},
+	{
+		"población": "existente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "aguardar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "mojar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "fijo",
+		"-0.2": "0"
+	},
+	{
+		"población": "recorrido",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "arco",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "mental",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "televisivo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "tesoro",
+		"-0.2": "1"
+	},
+	{
+		"población": "ciclo",
+		"-0.2": "0"
+	},
+	{
+		"población": "murmurar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "oler",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "responsabilidad",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "historiador",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "abogado",
+		"-0.2": "0"
+	},
+	{
+		"población": "corriente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "respiración",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "you",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "concurso",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "amarillo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "eternidad",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "mariposa",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "anillo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "baile",
+		"-0.2": "1"
+	},
+	{
+		"población": "limpio",
+		"-0.2": "1"
+	},
+	{
+		"población": "calmar",
+		"-0.2": "1"
+	},
+	{
+		"población": "individual",
+		"-0.2": "0"
+	},
+	{
+		"población": "orgullo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "altitud",
+		"-0.2": "0"
+	},
+	{
+		"población": "apariencia",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "definitivamente",
+		"-0.2": "0"
+	},
+	{
+		"población": "reserva",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "extenso",
+		"-0.2": "0"
+	},
+	{
+		"población": "huevo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "adecuar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "escultura",
+		"-0.2": "0.83330000000000004"
+	},
+	{
+		"población": "cesar",
+		"-0.2": "0"
+	},
+	{
+		"población": "trono",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "comité",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "acusar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "gestión",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "selva",
+		"-0.2": "1"
+	},
+	{
+		"población": "bahía",
+		"-0.2": "1"
+	},
+	{
+		"población": "estrellar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "solicitar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "nba",
+		"-0.2": "0"
+	},
+	{
+		"población": "terror",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "brindar",
+		"-0.2": "1"
+	},
+	{
+		"población": "grabado",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "tratado",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "triunfo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "fundador",
+		"-0.2": "0"
+	},
+	{
+		"población": "sangrar",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "entrenador",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "sagrado",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "crimen",
+		"-0.2": "-1"
+	},
+	{
+		"población": "national",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "promover",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "conquista",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "oreja",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "prisión",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "sendero",
+		"-0.2": "1"
+	},
+	{
+		"población": "virgen",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "resistir",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "tambien",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "crítica",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "arroyo",
+		"-0.2": "1"
+	},
+	{
+		"población": "traducir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "vaciar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "agarrar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "adentro",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "porqué",
+		"-0.2": "0"
+	},
+	{
+		"población": "permanente",
+		"-0.2": "0"
+	},
+	{
+		"población": "reclamar",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "oficialmente",
+		"-0.2": "0"
+	},
+	{
+		"población": "abismo",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "oposición",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "ahogar",
+		"-0.2": "-1"
+	},
+	{
+		"población": "competición",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "característico",
+		"-0.2": "0"
+	},
+	{
+		"población": "democrático",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "freír",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "puta",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "electoral",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "delgado",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "aldea",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "albergar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "lector",
+		"-0.2": "1"
+	},
+	{
+		"población": "poblar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "extranjero",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "virtud",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "adulto",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "pesadilla",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "multitud",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "dorar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "jurar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "previo",
+		"-0.2": "0"
+	},
+	{
+		"población": "inteligencia",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "herramienta",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "apertura",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "aliado",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "lavar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "presidencia",
+		"-0.2": "0"
+	},
+	{
+		"población": "programar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "pago",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "primario",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "gozar",
+		"-0.2": "1"
+	},
+	{
+		"población": "suceso",
+		"-0.2": "0"
+	},
+	{
+		"población": "acostar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "reunión",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "nostalgia",
+		"-0.2": "0"
+	},
+	{
+		"población": "advertir",
+		"-0.2": "0"
+	},
+	{
+		"población": "solista",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "conversar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "impulsar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "silencioso",
+		"-0.2": "0"
+	},
+	{
+		"población": "recientemente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "mezcla",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "herida",
+		"-0.2": "-1"
+	},
+	{
+		"población": "primo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "murmullo",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "agitar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "batería",
+		"-0.2": "0"
+	},
+	{
+		"población": "rutina",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "milagro",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "tramo",
+		"-0.2": "0"
+	},
+	{
+		"población": "cabecera",
+		"-0.2": "0"
+	},
+	{
+		"población": "bien",
+		"-0.2": "1"
+	},
+	{
+		"población": "contribuir",
+		"-0.2": "1"
+	},
+	{
+		"población": "arquitectónico",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "declaración",
+		"-0.2": "0"
+	},
+	{
+		"población": "dias",
+		"-0.2": "0"
+	},
+	{
+		"población": "llama",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "ascenso",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "ama",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "excelente",
+		"-0.2": "1"
+	},
+	{
+		"población": "fluir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "audiencia",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "riqueza",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "modificar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "vela",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "engañar",
+		"-0.2": "-1"
+	},
+	{
+		"población": "exitoso",
+		"-0.2": "1"
+	},
+	{
+		"población": "indígena",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "miel",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "mentir",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "tendencia",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "piedad",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "solar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "turismo",
+		"-0.2": "1"
+	},
+	{
+		"población": "moral",
+		"-0.2": "1"
+	},
+	{
+		"población": "borrar",
+		"-0.2": "0"
+	},
+	{
+		"población": "decreto",
+		"-0.2": "0"
+	},
+	{
+		"población": "definitivo",
+		"-0.2": "0"
+	},
+	{
+		"población": "aqui",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cura",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "especializar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "fumar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "droga",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "monje",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "notable",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "oriente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "vidrio",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "renta",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "pato",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "precioso",
+		"-0.2": "1"
+	},
+	{
+		"población": "pluma",
+		"-0.2": "1"
+	},
+	{
+		"población": "atar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "satisfacer",
+		"-0.2": "1"
+	},
+	{
+		"población": "caliente",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "agrupar",
+		"-0.2": "0"
+	},
+	{
+		"población": "nominar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "posesión",
+		"-0.2": "0"
+	},
+	{
+		"población": "respetar",
+		"-0.2": "1"
+	},
+	{
+		"población": "precisamente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "implicar",
+		"-0.2": "0"
+	},
+	{
+		"población": "editorial",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "misterioso",
+		"-0.2": "0"
+	},
+	{
+		"población": "impacto",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "margen",
+		"-0.2": "0"
+	},
+	{
+		"población": "descubrimiento",
+		"-0.2": "1"
+	},
+	{
+		"población": "constar",
+		"-0.2": "0"
+	},
+	{
+		"población": "isleño",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "cárcel",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "tradicionalmente",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "manifestar",
+		"-0.2": "0"
+	},
+	{
+		"población": "invisible",
+		"-0.2": "0"
+	},
+	{
+		"población": "propuesta",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "universitario",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "paular",
+		"-0.2": "0"
+	},
+	{
+		"población": "divertir",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "rueda",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "ventaja",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "ubicación",
+		"-0.2": "0"
+	},
+	{
+		"población": "patrimonio",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "vano",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "signo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "bestia",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "convento",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "pico",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "tour",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "comprobar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "estallar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "ejercicio",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "lloro",
+		"-0.2": "-1"
+	},
+	{
+		"población": "lucir",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "insistir",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "disposición",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "escala",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "eje",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "madrugada",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "invitado",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "danzar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "ciego",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "jornada",
+		"-0.2": "0"
+	},
+	{
+		"población": "exacto",
+		"-0.2": "0.83330000000000004"
+	},
+	{
+		"población": "adaptar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "impulso",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "aparato",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "comarca",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "pelea",
+		"-0.2": "-0.83330000000000004"
+	},
+	{
+		"población": "legislatura",
+		"-0.2": "-0.16669999999999999"
+	},
+	{
+		"población": "explotar",
+		"-0.2": "-0.5"
+	},
+	{
+		"población": "respectivamente",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "específico",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "manejar",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "productor",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "automóvil",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "toro",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "prisa",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "posiblemente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "aumento",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "delante",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "victoria",
+		"-0.2": "1"
+	},
+	{
+		"población": "alzar",
+		"-0.2": "0.66669999999999996"
+	},
+	{
+		"población": "canto",
+		"-0.2": "1"
+	},
+	{
+		"población": "delicado",
+		"-0.2": "0.66669999999999996"
+	},
+	{
+		"población": "tardar",
+		"-0.2": "-0.66669999999999996"
+	},
+	{
+		"población": "originario",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "coincidir",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "ensayo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "penetrar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "candidatura",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "talvez",
+		"-0.2": "0"
+	},
+	{
+		"población": "desesperación",
+		"-0.2": "-1"
+	},
+	{
+		"población": "avenida",
+		"-0.2": "0"
+	},
+	{
+		"población": "semifinal",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "planear",
+		"-0.2": "1"
+	},
+	{
+		"población": "comparar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "agradable",
+		"-0.2": "1"
+	},
+	{
+		"población": "quebrar",
+		"-0.2": "0"
+	},
+	{
+		"población": "fórmula",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "colectivo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "silueta",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "renunciar",
+		"-0.2": "0"
+	},
+	{
+		"población": "supremo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "prever",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "intervención",
+		"-0.2": "0"
+	},
+	{
+		"población": "despierto",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "usuario",
+		"-0.2": "0"
+	},
+	{
+		"población": "contratar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "monstruo",
+		"-0.2": "-0.57140000000000002"
+	},
+	{
+		"población": "restaurante",
+		"-0.2": "0.83330000000000004"
+	},
+	{
+		"población": "tarde",
+		"-0.2": "0.5"
+	},
+	{
+		"población": "humor",
+		"-0.2": "0.83330000000000004"
+	},
+	{
+		"población": "plantar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "bomba",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "inundar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "cuchillo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "homenaje",
+		"-0.2": "1"
+	},
+	{
+		"población": "consolidar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "competir",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "league",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "coste",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "concentración",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "elegido",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "definición",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "exactamente",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "combinar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "ceremonia",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cruz",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "criticar",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "inocente",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "palpitar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "ganador",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "celebración",
+		"-0.2": "1"
+	},
+	{
+		"población": "hilo",
+		"-0.2": "0"
+	},
+	{
+		"población": "pisar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "basura",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "mueca",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "endémico",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "bronce",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "pálido",
+		"-0.2": "0"
+	},
+	{
+		"población": "legislativo",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "posar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "preocupación",
+		"-0.2": "-1"
+	},
+	{
+		"población": "amargo",
+		"-0.2": "-1"
+	},
+	{
+		"población": "hembra",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "escoger",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "procedente",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "consuelo",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "confesar",
+		"-0.2": "-0.16669999999999999"
+	},
+	{
+		"población": "pop",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "socialista",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "español",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "contexto",
+		"-0.2": "0"
+	},
+	{
+		"población": "humedad",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "moda",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "ganadería",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "creencia",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "correspondiente",
+		"-0.2": "0"
+	},
+	{
+		"población": "enfermo",
+		"-0.2": "-1"
+	},
+	{
+		"población": "turístico",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "plataforma",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "clave",
+		"-0.2": "0"
+	},
+	{
+		"población": "ánimo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "discurso",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "hondo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "claramente",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "obligación",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "sal",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "beneficio",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "montañoso",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "miar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "sesión",
+		"-0.2": "0"
+	},
+	{
+		"población": "evidente",
+		"-0.2": "0"
+	},
+	{
+		"población": "retrato",
+		"-0.2": "0"
+	},
+	{
+		"población": "permiso",
+		"-0.2": "0"
+	},
+	{
+		"población": "destrucción",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "galería",
+		"-0.2": "0"
+	},
+	{
+		"población": "cotidiano",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "limpiar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "autobús",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "ruina",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "atribuir",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "despues",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "biografiar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sureste",
+		"-0.2": "0"
+	},
+	{
+		"población": "danza",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "mecanismo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cercanía",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "ficción",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "escupir",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "trozo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "gastar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "instrucción",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "nacionalista",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "espiritual",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "frecuente",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "muralla",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "honor",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "empapar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "firma",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "judicial",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "derrota",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "ira",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "apoderar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "regular",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "establecimiento",
+		"-0.2": "0"
+	},
+	{
+		"población": "morder",
+		"-0.2": "0"
+	},
+	{
+		"población": "rango",
+		"-0.2": "0"
+	},
+	{
+		"población": "tranquilidad",
+		"-0.2": "1"
+	},
+	{
+		"población": "derramar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "compromiso",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "positivo",
+		"-0.2": "1"
+	},
+	{
+		"población": "brigada",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "bit",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cigarro",
+		"-0.2": "-1"
+	},
+	{
+		"población": "aburrir",
+		"-0.2": "-1"
+	},
+	{
+		"población": "empujar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "oración",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "admitir",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "rol",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "insecto",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "atlántico",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "abundante",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "orquesta",
+		"-0.2": "1"
+	},
+	{
+		"población": "aproximar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "certeza",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "mediterráneo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "diablo",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "talento",
+		"-0.2": "1"
+	},
+	{
+		"población": "proveniente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "empleado",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "naval",
+		"-0.2": "0"
+	},
+	{
+		"población": "curioso",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "tensión",
+		"-0.2": "-1"
+	},
+	{
+		"población": "representativo",
+		"-0.2": "0"
+	},
+	{
+		"población": "noble",
+		"-0.2": "1"
+	},
+	{
+		"población": "cerro",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "conexión",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "sumergir",
+		"-0.2": "0"
+	},
+	{
+		"población": "increíble",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "tibio",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "expansión",
+		"-0.2": "0"
+	},
+	{
+		"población": "cuerda",
+		"-0.2": "0"
+	},
+	{
+		"población": "paralelo",
+		"-0.2": "0"
+	},
+	{
+		"población": "arreglar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "anotar",
+		"-0.2": "0"
+	},
+	{
+		"población": "nuclear",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "tembloroso",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "paraíso",
+		"-0.2": "1"
+	},
+	{
+		"población": "comunista",
+		"-0.2": "0"
+	},
+	{
+		"población": "cintura",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "liderar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "muñeca",
+		"-0.2": "1"
+	},
+	{
+		"población": "terrestre",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "equilibrio",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "salvaje",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "estrategia",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "castillo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "externo",
+		"-0.2": "0"
+	},
+	{
+		"población": "videojuego",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "impresión",
+		"-0.2": "0"
+	},
+	{
+		"población": "lista",
+		"-0.2": "0"
+	},
+	{
+		"población": "aguantar",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "guía",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "listar",
+		"-0.2": "0"
+	},
+	{
+		"población": "cultivar",
+		"-0.2": "1"
+	},
+	{
+		"población": "pozo",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "prender",
+		"-0.2": "0"
+	},
+	{
+		"población": "acomodar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "apartar",
+		"-0.2": "0"
+	},
+	{
+		"población": "circuito",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "absurdo",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "discutir",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "altar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "feo",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "fuertemente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "latín",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "inspiración",
+		"-0.2": "1"
+	},
+	{
+		"población": "castellano",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "desvanecer",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "discusión",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "yacer",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "expulsar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "mortal",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "promoción",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "estimar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "rasgo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "cita",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "horrible",
+		"-0.2": "-1"
+	},
+	{
+		"población": "fracaso",
+		"-0.2": "-1"
+	},
+	{
+		"población": "amenaza",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "admirar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "varón",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "líneo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "serpiente",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "marqués",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "transferir",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "emprender",
+		"-0.2": "1"
+	},
+	{
+		"población": "venganza",
+		"-0.2": "-1"
+	},
+	{
+		"población": "plazo",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "reaccionar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "conclusión",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "avance",
+		"-0.2": "1"
+	},
+	{
+		"población": "rival",
+		"-0.2": "-1"
+	},
+	{
+		"población": "atardecer",
+		"-0.2": "1"
+	},
+	{
+		"población": "barro",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "ansia",
+		"-0.2": "0"
+	},
+	{
+		"población": "apurar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "étnico",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "librar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "dinastía",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "cobrar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "oficio",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "sincero",
+		"-0.2": "1"
+	},
+	{
+		"población": "querido",
+		"-0.2": "1"
+	},
+	{
+		"población": "responsable",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "cazar",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "perfume",
+		"-0.2": "1"
+	},
+	{
+		"población": "mixto",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "pelota",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "anhelo",
+		"-0.2": "1"
+	},
+	{
+		"población": "furia",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "parado",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "efectuar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "santo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "repartir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "arder",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "inútil",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "inicial",
+		"-0.2": "0"
+	},
+	{
+		"población": "complicar",
+		"-0.2": "-1"
+	},
+	{
+		"población": "vergüenza",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "metálico",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "agudo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "fácilmente",
+		"-0.2": "1"
+	},
+	{
+		"población": "suroeste",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "vacio",
+		"-0.2": "-1"
+	},
+	{
+		"población": "violento",
+		"-0.2": "-1"
+	},
+	{
+		"población": "perfectamente",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "intervenir",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "cansancio",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "pecado",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "túnel",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "teniente",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "ocupación",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "mario",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "profundar",
+		"-0.2": "0"
+	},
+	{
+		"población": "mina",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "respectivo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "lamento",
+		"-0.2": "-1"
+	},
+	{
+		"población": "timar",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "consolar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "probable",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "relativo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "medieval",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "significativo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "espacial",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "entraña",
+		"-0.2": "-1"
+	},
+	{
+		"población": "sigla",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "erigir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "vídeo",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "laboratorio",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "niebla",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "disminuir",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "azúcar",
+		"-0.2": "1"
+	},
+	{
+		"población": "cumpleaños",
+		"-0.2": "1"
+	},
+	{
+		"población": "rumor",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "bus",
+		"-0.2": "0"
+	},
+	{
+		"población": "deuda",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "ejecución",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "funcionamiento",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "vapor",
+		"-0.2": "0"
+	},
+	{
+		"población": "continente",
+		"-0.2": "0"
+	},
+	{
+		"población": "disimular",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "paciente",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "salto",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "instinto",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "mañana",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "infante",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "tarjeta",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "software",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "agujero",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "crédito",
+		"-0.2": "0"
+	},
+	{
+		"población": "carecer",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "manga",
+		"-0.2": "0"
+	},
+	{
+		"población": "manifestación",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "cortina",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "tropezar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "humilde",
+		"-0.2": "1"
+	},
+	{
+		"población": "rozar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "tragar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "desplazar",
+		"-0.2": "0"
+	},
+	{
+		"población": "placa",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "seleccionar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "lecho",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "totalidad",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "rabia",
+		"-0.2": "-1"
+	},
+	{
+		"población": "creador",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "desprender",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "revolucionario",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "sillón",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "incrementar",
+		"-0.2": "0"
+	},
+	{
+		"población": "saco",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "enloquecer",
+		"-0.2": "-1"
+	},
+	{
+		"población": "guerrero",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "relativamente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "sombrero",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "rastro",
+		"-0.2": "0"
+	},
+	{
+		"población": "camión",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "encargado",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "ducado",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "baloncesto",
+		"-0.2": "1"
+	},
+	{
+		"población": "inteligente",
+		"-0.2": "1"
+	},
+	{
+		"población": "aerolínea",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "mudar",
+		"-0.2": "0"
+	},
+	{
+		"población": "depresión",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "referenciar",
+		"-0.2": "0"
+	},
+	{
+		"población": "senador",
+		"-0.2": "0"
+	},
+	{
+		"población": "bola",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "recinto",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sobrino",
+		"-0.2": "1"
+	},
+	{
+		"población": "lastimar",
+		"-0.2": "-1"
+	},
+	{
+		"población": "cinta",
+		"-0.2": "0"
+	},
+	{
+		"población": "atlético",
+		"-0.2": "1"
+	},
+	{
+		"población": "noroeste",
+		"-0.2": "0"
+	},
+	{
+		"población": "rocío",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "dragón",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "frágil",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "explosión",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "aviación",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "cumbre",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "intensidad",
+		"-0.2": "0"
+	},
+	{
+		"población": "traducción",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "grueso",
+		"-0.2": "-0.16669999999999999"
+	},
+	{
+		"población": "nido",
+		"-0.2": "0.83330000000000004"
+	},
+	{
+		"población": "empresario",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "resolución",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "popularidad",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "conferencia",
+		"-0.2": "0.33329999999999999"
+	},
+	{
+		"población": "norma",
+		"-0.2": "0.16669999999999999"
+	},
+	{
+		"población": "interminable",
+		"-0.2": "0"
+	},
+	{
+		"población": "mandato",
+		"-0.2": "0"
+	},
+	{
+		"población": "componente",
+		"-0.2": "0"
+	},
+	{
+		"población": "duración",
+		"-0.2": "0"
+	},
+	{
+		"población": "marchito",
+		"-0.2": "-0.33329999999999999"
+	},
+	{
+		"población": "incendio",
+		"-0.2": "-0.83330000000000004"
+	},
+	{
+		"población": "distante",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "demanda",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "adaptación",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "vereda",
+		"-0.2": "0"
+	},
+	{
+		"población": "centímetro",
+		"-0.2": "0"
+	},
+	{
+		"población": "jazz",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "costo",
+		"-0.2": "0"
+	},
+	{
+		"población": "visible",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "cena",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "tubo",
+		"-0.2": "0"
+	},
+	{
+		"población": "billete",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "sinopsis",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "artificial",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "cómic",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "suavemente",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "ingeniería",
+		"-0.2": "0"
+	},
+	{
+		"población": "pasaje",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "combinación",
+		"-0.2": "0"
+	},
+	{
+		"población": "turno",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "seno",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "hierba",
+		"-0.2": "1"
+	},
+	{
+		"población": "circular",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "incapaz",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "orar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "socio",
+		"-0.2": "0"
+	},
+	{
+		"población": "aportar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "democracia",
+		"-0.2": "1"
+	},
+	{
+		"población": "guitarrista",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "escritura",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "ampliar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "sed",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "alegrar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "emisión",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "tráfico",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "convocar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "espectador",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "caro",
+		"-0.2": "-1"
+	},
+	{
+		"población": "desgracia",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "transmisión",
+		"-0.2": "0"
+	},
+	{
+		"población": "líquido",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "confusión",
+		"-0.2": "0"
+	},
+	{
+		"población": "fachada",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "matemático",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "digital",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "campana",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "extraordinario",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "piloto",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "aeronave",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "pasajero",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "fugaz",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "apellido",
+		"-0.2": "0"
+	},
+	{
+		"población": "sujeto",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "chocolate",
+		"-0.2": "1"
+	},
+	{
+		"población": "vengar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "chocar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "tiro",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "web",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "quieto",
+		"-0.2": "0"
+	},
+	{
+		"población": "vomitar",
+		"-0.2": "-1"
+	},
+	{
+		"población": "quizas",
+		"-0.2": "0"
+	},
+	{
+		"población": "amado",
+		"-0.2": "1"
+	},
+	{
+		"población": "disparo",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "alcance",
+		"-0.2": "0"
+	},
+	{
+		"población": "presidencial",
+		"-0.2": "0"
+	},
+	{
+		"población": "era",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sábana",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "frecuentemente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "intelectual",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "ceniza",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "territorial",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "percatar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "music",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "colonial",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "proclamar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "acumular",
+		"-0.2": "0"
+	},
+	{
+		"población": "enfrentamiento",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "mando",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "paloma",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "vas",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "pétalo",
+		"-0.2": "1"
+	},
+	{
+		"población": "acelerar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "funcionario",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "almohada",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "particularmente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "vital",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "liberación",
+		"-0.2": "1"
+	},
+	{
+		"población": "sustancia",
+		"-0.2": "0"
+	},
+	{
+		"población": "cáncer",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "nervio",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "reina",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "manzana",
+		"-0.2": "1"
+	},
+	{
+		"población": "encanto",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "doblar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "etimología",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "américa",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "informe",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "consumo",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "armonía",
+		"-0.2": "1"
+	},
+	{
+		"población": "sediento",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "voltear",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "gordo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "barrera",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "aceite",
+		"-0.2": "0"
+	},
+	{
+		"población": "impregnar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "observación",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "parlamento",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "delito",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "tapar",
+		"-0.2": "0"
+	},
+	{
+		"población": "paquete",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "consciente",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "fusionar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "deje",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "trago",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "feria",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "sorbo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "empleo",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "debe",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "conservación",
+		"-0.2": "0"
+	},
+	{
+		"población": "helar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "uña",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "hada",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "aislar",
+		"-0.2": "0"
+	},
+	{
+		"población": "ahi",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "inocencia",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "destrozar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "microsoft",
+		"-0.2": "0"
+	},
+	{
+		"población": "culto",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "archivo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "ejemplar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "misa",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "procedimiento",
+		"-0.2": "0"
+	},
+	{
+		"población": "fusión",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "manto",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "navegar",
+		"-0.2": "1"
+	},
+	{
+		"población": "educativo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "curar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "plano",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "suspender",
+		"-0.2": "0"
+	},
+	{
+		"población": "castigo",
+		"-0.2": "-1"
+	},
+	{
+		"población": "boda",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "picar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "llamada",
+		"-0.2": "0"
+	},
+	{
+		"población": "toclop",
+		"-0.2": "0"
+	},
+	{
+		"población": "esfumar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "argumentar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "índice",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "calcular",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "escalofrío",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "tonto",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "pulmón",
+		"-0.2": "0"
+	},
+	{
+		"población": "tela",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "realista",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "palma",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "colonia",
+		"-0.2": "0"
+	},
+	{
+		"población": "falda",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "entrevista",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "montón",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sacrificio",
+		"-0.2": "0"
+	},
+	{
+		"población": "práctica",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "perciforme",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "agrupación",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "asistencia",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "navidad",
+		"-0.2": "1"
+	},
+	{
+		"población": "penumbra",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "extraer",
+		"-0.2": "0"
+	},
+	{
+		"población": "separación",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "conducta",
+		"-0.2": "0"
+	},
+	{
+		"población": "digno",
+		"-0.2": "1"
+	},
+	{
+		"población": "templar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "tronco",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "grita",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "estómago",
+		"-0.2": "0"
+	},
+	{
+		"población": "atmósfera",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "escritorio",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "añorar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "fundir",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "adornar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "lateral",
+		"-0.2": "0"
+	},
+	{
+		"población": "programación",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "maria",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "dictadura",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "global",
+		"-0.2": "0"
+	},
+	{
+		"población": "proteína",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "ansiedad",
+		"-0.2": "-1"
+	},
+	{
+		"población": "explotación",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "vegetación",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "miseria",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "culpable",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "claridad",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "naranja",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "teatral",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "caza",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "gigante",
+		"-0.2": "0"
+	},
+	{
+		"población": "examen",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "plantear",
+		"-0.2": "0"
+	},
+	{
+		"población": "asignar",
+		"-0.2": "0"
+	},
+	{
+		"población": "fallar",
+		"-0.2": "-1"
+	},
+	{
+		"población": "sera",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "deshacer",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "celo",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "jurídico",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "primitivo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "rescatar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "sollozo",
+		"-0.2": "-1"
+	},
+	{
+		"población": "gobernación",
+		"-0.2": "0"
+	},
+	{
+		"población": "agotar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "bala",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "partícula",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "mudo",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "regimiento",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "revisar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "volcán",
+		"-0.2": "0"
+	},
+	{
+		"población": "transformación",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "pastor",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "dañar",
+		"-0.2": "-1"
+	},
+	{
+		"población": "agonía",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "lástima",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "diámetro",
+		"-0.2": "0"
+	},
+	{
+		"población": "hermanar",
+		"-0.2": "1"
+	},
+	{
+		"población": "espina",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "computador",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "esfera",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "bandera",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "castigar",
+		"-0.2": "-1"
+	},
+	{
+		"población": "influir",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "super",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "prolongar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "desnudar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "masivo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "ligeramente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "hueco",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "analizar",
+		"-0.2": "0"
+	},
+	{
+		"población": "alrededor",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "defecto",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "realización",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "penar",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "tragedia",
+		"-0.2": "-1"
+	},
+	{
+		"población": "compra",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "residencia",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "diálogo",
+		"-0.2": "1"
+	},
+	{
+		"población": "datar",
+		"-0.2": "0"
+	},
+	{
+		"población": "rebelión",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "investigador",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "afuera",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "dvd",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "film",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "caos",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "administrativo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "inversión",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "señorito",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "guiar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "correo",
+		"-0.2": "0"
+	},
+	{
+		"población": "bebé",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "enojar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "juzgar",
+		"-0.2": "0"
+	},
+	{
+		"población": "juvenil",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "constantemente",
+		"-0.2": "0"
+	},
+	{
+		"población": "poblado",
+		"-0.2": "0"
+	},
+	{
+		"población": "antigüedad",
+		"-0.2": "0"
+	},
+	{
+		"población": "nadar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "respectar",
+		"-0.2": "0"
+	},
+	{
+		"población": "resignar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "inmóvil",
+		"-0.2": "0"
+	},
+	{
+		"población": "masculino",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "anhelar",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "músculo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "influenciar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "top",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "infantería",
+		"-0.2": "0"
+	},
+	{
+		"población": "remedio",
+		"-0.2": "0"
+	},
+	{
+		"población": "esencial",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "quinto",
+		"-0.2": "0"
+	},
+	{
+		"población": "narrar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "luminoso",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "trasero",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "tornar",
+		"-0.2": "0"
+	},
+	{
+		"población": "platicar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cinematográfico",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "anoche",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "experimento",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "forestal",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "fragmento",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "alternativa",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "queso",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "inmensidad",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "gloria",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "sentencia",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "exclusivamente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "estrecho",
+		"-0.2": "0"
+	},
+	{
+		"población": "adicional",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "útil",
+		"-0.2": "1"
+	},
+	{
+		"población": "adorar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "variación",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "aparentemente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "entrenamiento",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "marítimo",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "inevitable",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "llanura",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "estan",
+		"-0.2": "0"
+	},
+	{
+		"población": "mariano",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "prisionero",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "absolutamente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "sabiduría",
+		"-0.2": "1"
+	},
+	{
+		"población": "concilio",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "ejecutivo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "subespecie",
+		"-0.2": "0"
+	},
+	{
+		"población": "iniciativa",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "suspirar",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "veneno",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "largar",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "influyente",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "sutil",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "exclamar",
+		"-0.2": "0"
+	},
+	{
+		"población": "ardiente",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "euro",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "facilitar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "sedar",
+		"-0.2": "0"
+	},
+	{
+		"población": "profesión",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "septentrional",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "investigar",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "campamento",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "horror",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "subtropical",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "cerdo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "postura",
+		"-0.2": "0"
+	},
+	{
+		"población": "barra",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "perspectiva",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "esclavo",
+		"-0.2": "-0.8"
+	},
+	{
+		"población": "absorber",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "ansioso",
+		"-0.2": "0"
+	},
+	{
+		"población": "cero",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "deja",
+		"-0.2": "0"
+	},
+	{
+		"población": "enamorado",
+		"-0.2": "1"
+	},
+	{
+		"población": "sinfónico",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "caballería",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "amoroso",
+		"-0.2": "1"
+	},
+	{
+		"población": "sabana",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "contraer",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "visual",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "vincular",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "terremoto",
+		"-0.2": "-1"
+	},
+	{
+		"población": "licenciar",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "republicano",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "giro",
+		"-0.2": "0"
+	},
+	{
+		"población": "elegante",
+		"-0.2": "1"
+	},
+	{
+		"población": "aguar",
+		"-0.2": "-0.4"
+	},
+	{
+		"población": "melancolía",
+		"-0.2": "-1"
+	},
+	{
+		"población": "comparación",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "ángulo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "atracción",
+		"-0.2": "1"
+	},
+	{
+		"población": "reojo",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "significado",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "congelar",
+		"-0.2": "-0.6"
+	},
+	{
+		"población": "pistola",
+		"-0.2": "-1"
+	},
+	{
+		"población": "amable",
+		"-0.2": "1"
+	},
+	{
+		"población": "comedia",
+		"-0.2": "1"
+	},
+	{
+		"población": "central",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "doloroso",
+		"-0.2": "-1"
+	},
+	{
+		"población": "facilidad",
+		"-0.2": "1"
+	},
+	{
+		"población": "sublime",
+		"-0.2": "1"
+	},
+	{
+		"población": "prado",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "tejer",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "flujo",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "enfermero",
+		"-0.2": "-0.2"
+	},
+	{
+		"población": "paciencia",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "térmico",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "civilización",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "introducción",
+		"-0.2": "0"
+	},
+	{
+		"población": "pionero",
+		"-0.2": "0.8"
+	},
+	{
+		"población": "ramal",
+		"-0.2": "0"
+	},
+	{
+		"población": "peña",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "angel",
+		"-0.2": "1"
+	},
+	{
+		"población": "rubio",
+		"-0.2": "0.2"
+	},
+	{
+		"población": "cajón",
+		"-0.2": "0"
+	},
+	{
+		"población": "restauración",
+		"-0.2": "0.6"
+	},
+	{
+		"población": "lógica",
+		"-0.2": "0.4"
+	},
+	{
+		"población": "that",
+		"-0.2": "0"
+	},
+	{
+		"población": "sien",
+		"-0.2": "0"
+	},
+	{
+		"población": "contento",
+		"-0.2": "1"
+	},
+	{
+		"población": "taxi",
+		"-0.2": "0"
+	},
+	{
+		"población": "petición",
+		"-0.2": "0"
+	}
+]
