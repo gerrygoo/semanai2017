@@ -3,7 +3,7 @@ import json
 import unidecode
 from difflib import SequenceMatcher
 
-csvfile = open('dictionary.csv', 'r')
+csvfile = open('finalDictionary_Cabify.csv', 'r')
 
 fieldnames = ("word","value")
 reader = csv.DictReader(csvfile, fieldnames)
@@ -135,7 +135,7 @@ def main():
  
     tweetArray = []
 
-    amlo = open('amlo3000.json', 'r') 
+    amlo = open('cabify3000.json', 'r') 
     jsonArray = json.load(amlo)
  
     for element in totDictionary:
