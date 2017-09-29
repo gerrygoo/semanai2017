@@ -2,6 +2,7 @@ import csv
 import json
 import unidecode
 from difflib import SequenceMatcher
+from emojiem import emojiem
 
 csvfile = open('finalDictionary_Cabify.csv', 'r')
 
@@ -30,6 +31,8 @@ def getScore(similarity, foundWordScore):
 
 ALPHABET_SIZE = 26
  
+thing = emojiem()
+
 class TrieNode:
      
     # Trie node class
@@ -104,12 +107,12 @@ class Trie:
 # Trie object
 myTrie = Trie()
 
-def computeTweetSentiment(tweet):
+def computeTweetSentiment(tweetText):
 
 	sentiment = 0
 	wordCounter = 0
 
-	for word in tweet.split(" "):
+	for word in tweetText.split(" "):
 
 		try:
 			wordCounter = wordCounter + 1
@@ -130,23 +133,62 @@ def computeTweetSentiment(tweet):
 
 	return sentiment/wordCounter
 
+def computeEmojisSentiment(tweetEmojiArray):
+
+	return thing.evaluate(tweetEmojiArray)
+
+def computePredominantSentiment(tweetEmojiArray):
+
+	return thing.getPredominantEmotion(tweetEmojiArray)
+
+def computeTotalSentiment(textScore, emojiScore):
+
+	if abs(emojiScore) >= 0.70:
+		return ((emojiScore*1.5) + textScore)/2
+
+	return ((textScore*1.5) + emojiScore)/2
+
 # driver function
+
+def computeTweetObjectSentiment(tweet):
+	return(computeTweetSentiment(tweet["full_text"]))
+
 def main():
- 
-    tweetArray = []
 
-    amlo = open('cabify3000.json', 'r') 
-    jsonArray = json.load(amlo)
- 
-    for element in totDictionary:
-        myTrie.insert(element)
+	originalTweetTextArray = []
+	cleanTweetTextArray = []
+	tweetEmojisArray = []
 
-    for tweet in jsonArray['tweets']:
-    	tweetArray.append(tweet['full_text'])
+	jsonFile = open('cabify.json', 'r') 
+	jsonArray = json.load(jsonFile)
 
-    for tweet in tweetArray:
-    	print(tweet)
-    	print("score = " + str(computeTweetSentiment(tweet)))
-    	print()
- 
+	for element in totDictionary:
+		myTrie.insert(element)
+
+	for tweet in jsonArray['tweets']:
+
+		originalTweetTextArray.append(tweet['fullTweet'])
+		cleanTweetTextArray.append(tweet['full_text'])
+		tweetEmojisArray.append(tweet['emojis'])
+
+	for i in range(len(cleanTweetTextArray)):
+
+		print("Original tweet text = " + originalTweetTextArray[i])
+		print("Clean tweet text = " + cleanTweetTextArray[i])
+		textScore = computeTweetSentiment(cleanTweetTextArray[i])
+		print("Text score = " + str(textScore))
+
+		if len(tweetEmojisArray[i]) > 0:
+			emojiScore = computeEmojisSentiment(tweetEmojisArray[i])
+			predominantSentiment = computePredominantSentiment(tweetEmojisArray[i])
+			print("Emojis = " + str(tweetEmojisArray[i]))
+			print("Emojis score = " + str(emojiScore))
+			print("Emojis predominant sentiment = " + predominantSentiment)
+			print("Total score = " + str(computeTotalSentiment(textScore, emojiScore)))
+
+		else:
+			print("This tweet did not have emojis.")
+
+		print()
+
 main()

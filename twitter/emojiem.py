@@ -21,29 +21,49 @@ class emojiem:
                 line = line.split(",")
                 emotions2emoji.append(line)
 
-
         vec2emotions = [[self.emoji2vec[emoji], emotion] for emotion, emoji in emotions2emoji]
 
-
         trainingX = [i[0] for i in vec2emotions]
-        trainingY = [i[1] for i in vec2emotions]
+        self.trainingY = [i[1] for i in vec2emotions]
 
         #init and training neural network classifier with experimental paramters
         self.clf = MLPClassifier(solver='sgd', hidden_layer_sizes=(100,100,100,100,100,100), max_iter=100000)
-        self.clf.fit(trainingX, trainingY)
+        self.clf.fit(trainingX, self.trainingY)
 
+    def getPredominantEmotion(self, emojiArr):
+        probs = [ self.clf.predict_proba( [self.emoji2vec[em]] )[0].tolist() for em in emojiArr]
+        averagesArray = [0 for i in probs[0]]
+
+        n = 1
+        for probArr in probs:
+            for i, value in enumerate(probArr):
+                averagesArray[i] += (value - averagesArray[i])/n
+            
+            n+=1
+
+       
+        allemotions = set(self.trainingY)
+        allemotions = sorted([i for i in allemotions])
+        m = 0
+        mem = ''
+        for score, em in zip(averagesArray, allemotions):
+            if abs(score) > m:
+                mem = em
+                m = score
+        return mem
 
     def evaluate(self, emojiArr):
         
         #normalized posture correspondance
-        emotionScores = {"relajado":0.5, "tenso":-0.25, "alerta":0., "nervioso":-0.25, "emocionado":0.5, "estresado":-0.5, "exaltado":0.75, "decepcionado":-0.5, "feliz":1, "triste":-1, "satisfecho":0.75, "aburrido":-0.25, "fatigado":-0.25}
+        emotionScores = {"calmado": 0.25, "deprimido": -0.75, "relajado":0.5, "tenso":-0.25, "alerta":0., "nervioso":-0.25, "emocionado":0.5, "estresado":-0.5, "exaltado":0.75, "decepcionado":-0.5, "feliz":1, "triste":-1, "satisfecho":0.75, "aburrido":-0.25, "fatigado":-0.25}
         #average emotional posture values per emoji in array using trained nn 
         n = 1
         result = 0
-        for score in [emotionScores[res] for res in self.clf.predict([self.emoji2vec[em] for em in emojiArr])]:
+        for score in [emotionScores[res] for res in self.clf.predict( [self.emoji2vec[em] for em in emojiArr] )]:
             result += (score - result)/n
             n+=1
-        return score
+        return result
+
 
 #results
 #accuracy over training set
@@ -52,11 +72,8 @@ class emojiem:
 #     if el[1] != el[2]:
 #         accuracy -= 1/155
 
-
-
 # print(accuracy)
 # pprint(trainingSetResult)
-
 
 # clustering
 # clust = {emotion:[] for emotion, _ in emotions2emoji}
