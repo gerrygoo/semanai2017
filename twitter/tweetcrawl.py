@@ -120,7 +120,7 @@ def searchWithEmoji(query, n):
     global ours 
     ours = []
 
-    fname = '/Users/salvador/Desktop/semanai2017/twitter/totalEmojis.txt'
+    fname = 'semanai2017/twitter/totalEmojis.txt'
 
     with open(fname) as f:
         
