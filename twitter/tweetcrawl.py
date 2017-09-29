@@ -7,13 +7,14 @@ import string
 import unidecode
 from urllib.parse import quote_plus
 
+# coding=utf8
+
 ''' Create the file my_own_twitter_keys.txt and place your four keys there.
     The file my_own_twitter_keys.txt has to contain the comma-separated 
     keys in the following order:
 
     CONSUMER_KEY,CONSUMER_SECRET,ACCESS_TOKEN,ACCESS_TOKEN_SECRET
 '''
-
 
 def authenticate():
 
@@ -58,7 +59,7 @@ def search(query, n):
                     tweet_ids.add(tweet.id)
                     searched_tweets.append(tweet)
 
-            # print("curr size " + str(len(searched_tweets)))
+            print("Mined tweets so far: " + str(len(searched_tweets)))
 
             if len(tweet_ids) > 0:
                 last_id = min(tweet_ids)
@@ -106,7 +107,6 @@ def tweetCleanse(tw):
 
     # no accents
     tweet["full_text"] = unidecode.unidecode(tweet["full_text"])
-    
 
     toRet = {k:tweet[k] for k in tweet.keys() & ( "id", "full_text")} 
     toRet["emojis"] = matches
@@ -116,19 +116,39 @@ def tweetCleanse(tw):
 def searchWithEmoji(query, n):
     toRet = []
     sliceSize = n//8
-    global ours
-    ours = ["😂","❤️","😍","♥️","😭","😊","😒","💕","😘","😩","👌","😔","😏","😁","😉","👍","😌","🙏","🎶","😢","😅","😎","👀","😳","🙌","💔","🙈","✌️","💙","✨","💜","💯","😴","💖","😄","😑","😕","😜","😞","😋","😪","😐","👏","🔥","💗","💘","💁","💞","👉","📷","💋","🙊","😱","✋","😈","😡","🎉","😃","💀","💛","💪","😫","😝","😆","👊","😀","🌚","😤","☀️","💓","💚","😓","😻","✔️","😣","👈","😷","😇","😛","😚","😥","👋","👑","😬","😖","😠","🌟","🎵","😶","👇","🙋","👎","💃","🔴","🔫","💫","👅","💥","💭","✊","✈️","💩","😰","😹","🙅","🌞","💦","💎","🙆","⚡️","⭐️","💤","🍕","👻","🍀","⚽️","🎤","😟","😨","🚶","🔞","🎀","😙","👽","💅","☝️","🌙","🙇","☁️","🍻","😧","💟","👯","👼","☕️","💝","🎁","🐶","💰","☎️","🎂","😮","🏃","😵","😲","✖️","😯","🐱","👆","👫","🏆","🌝","💸","💍","😿"]
+
+    global ours 
+    ours = []
+
+    fname = '/Users/salvador/Desktop/semanai2017/twitter/totalEmojis.txt'
+
+    with open(fname) as f:
+        
+        content = f.readlines()
+        
+        # you may also want to remove whitespace characters like `\n` at the end of each line
+        # content = [x.strip() for x in content] 
+
+        line = content[0]
+        totEmojis = line.split(",")
+
+        for e in totEmojis:
+            ours.append("\"" + e + "\"")
     
     for i in range(8):
-        toRet += search(query + " ("+  " OR ".join(ours[ 20*i : min( 20*(i+1), 20*i + ( len(ours) - 20*i ) ) ]) + " )", sliceSize)
+        # toRet += search(query + " ("+  " OR ".join(ours[ 20*i : min( 20*(i+1), 20*i + ( len(ours) - 20*i ) ) ]) + " )", sliceSize)
+        toRet += search(query, sliceSize)
 
     return toRet
 
 def main():
     authenticate()
-    query = "windows"
+    query = "cabify"
     number = 3000
 
-    print( json.dumps({ "tweets" : [ tweetCleanse(tweet) for tweet in searchWithEmoji(query, number) ] }))
+    toReturn = json.dumps({ "tweets" : [ tweetCleanse(tweet) for tweet in searchWithEmoji(query, number) ] })
+
+    with open('cabify3000.json', 'w') as f:
+        f.write(toReturn)
 
 main()
